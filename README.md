@@ -11,8 +11,7 @@
   </a>
   <a href="https://mamot.fr/@3xpl0it_sh4d0w">
     <img src="https://img.shields.io/badge/-MASTODON-blue?logo=mastodon&labelColor=3b3b3b&color=white">
-  </a><br>
-    <img src="devops-sysadmin-coder-pentester.svg">
+  </a>
 </p>
 <!-- FIN : Social Links -->
 
