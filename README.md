@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/-TELEGRAM-blue?logo=telegram&labelColor=3b3b3b&color=white">
   </a>
   <a href="https://instagram.com/3xpl0it.sh4d0w">
-    <img src="https://img.shields.io/badge/-INSTAGRAM-blue?logo=instagram&labelColor=3b3b3b&color=white">
+    <img src="https://img.shields.io/badge/-INSTAGRAM-blue?logo=instagram&logoColor=e77300&labelColor=3b3b3b&color=white">
   </a>
   <a href="https://tiktok.com/@3xpl0it.sh4d0w">
     <img src="https://img.shields.io/badge/-TIKTOK-blue?logo=tiktok&labelColor=3b3b3b&color=white">
