@@ -1,5 +1,8 @@
 <!-- DEB : Social Links -->
 <p align="center">
+  <a href="https://gitlab.com/">
+    <img src="https://img.shields.io/badge/-GITLAB-blue?logo=gitlab&labelColor=3b3b3b&color=white">
+  </a>
   <a href="https://telegram.me/exploit_shadow">
     <img src="https://img.shields.io/badge/-TELEGRAM-blue?logo=telegram&labelColor=3b3b3b&color=white">
   </a>
