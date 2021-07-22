@@ -30,7 +30,5 @@
 </p>
 <!-- FIN ! Stats Infos -->
 
-[go](http://stackoverflow.com){:target="_blank"}
-
 <!-- DEB : About Me Infos -->
 <!-- FIN : Abour Me Infos -->
