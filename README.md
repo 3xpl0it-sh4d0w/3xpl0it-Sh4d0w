@@ -3,9 +3,7 @@
   <img src="https://github.com/3xpl0it-Sh4d0w/3xpl0it-Sh4d0w/blob/main/3xpl0it%20shadow.png" height="250" width="600">
 <p>
 <!-- FIN : Logo About Me -->
-<p align="center">
-  <img src="devops-sysadmin-coder-pentester.svg">
-  </p>
+
 <!-- DEB : Social Links -->
 <p align="center">
   <a href="https://telegram.me/exploit_shadow">
@@ -22,6 +20,10 @@
   </a>
 </p>
 <!-- FIN : Social Links -->
+
+<p align="center">
+  <img src="devops-sysadmin-coder-pentester.svg">
+</p>
 
 <!-- DEB : Stats Infos -->
 <p align="center">
