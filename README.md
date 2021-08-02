@@ -19,9 +19,9 @@
 <!-- FIN : Social Links -->
 
 <!-- DEB : Logo About Me -->
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/3xpl0it-Sh4d0w/3xpl0it-Sh4d0w/blob/main/3xpl0it%20shadow.png" height="250" width="600">
-<p>
+<p>-->
 <!-- FIN : Logo About Me -->
 
 <!-- DEB : Stats Infos -->
