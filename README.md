@@ -1,6 +1,6 @@
 <!-- DEB : Social Links -->
-<!--<p align="center">
-  <a href="https://www.root-me.org/3xpl0it-Sh4d0w">
+<p align="center">
+  <!--<a href="https://www.root-me.org/3xpl0it-Sh4d0w">
     <img src="">
   </a>-->
   <a href="https://gitlab.com/3xpl0it.sh4d0w">
