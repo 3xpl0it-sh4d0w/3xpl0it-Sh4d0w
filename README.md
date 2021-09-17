@@ -1,8 +1,8 @@
 <!-- DEB : Social Links -->
-<p align="center">
+<!--<p align="center">
   <a href="https://www.root-me.org/3xpl0it-Sh4d0w">
     <img src="">
-  </a>
+  </a>-->
   <a href="https://gitlab.com/3xpl0it.sh4d0w">
     <img src="https://img.shields.io/badge/-GITLAB-blue?logo=gitlab&labelColor=3b3b3b&color=white">
   </a>
