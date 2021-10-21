@@ -44,7 +44,7 @@ Je suis aussi Mélomane à côté de ça, et depuis peu j'essaie de créer mes m
 J'ai beaucoup de messages négatifs par rapport à mon pseudo, 
 Les gens déterminent ton identité par rapport à ton pseudo, on prétend que je suis un <a href="https://en.wiktionary.org/wiki/h4x0r">h4x0r</a>.
 Plus sérieusement, j'ai choisi ça car la faille est humaine avant tout, c'est les humains qui concoivent, 
-les failles il y en a dans tout les domaines, autant dans la vie quotidienne que dans l'informatique.
+"Les failles il y en a dans tout les domaines, autant dans la vie quotidienne que dans l'informatique."
 </pre>
 <!-- FIN : About Me -->
 <hr>
