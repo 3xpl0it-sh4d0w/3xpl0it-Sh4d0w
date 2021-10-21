@@ -1,25 +1,4 @@
 <hr>
-<!-- DEB : About Me -->
-<pre color="#00A4FF">
-👋 Brève présentation :
-</pre>
-<pre color="#FFFA78">
-Salut, moi c'est Jason, Breton âgé de 22ans.
-Passionné d'informatique depuis l'âge de 12ans, plus particulièrement à la cybersecurité.
-Dès l'âge de 16ans j'ai découvert Linux (merci Fred R.I.P), j'ai tout de suite eu le coup de foudre.
-Je suis aussi Mélomane à côté de ça, et depuis peu j'essaie de créer mes musiques sous LMMS.
-</pre>
-
-<pre color="#00A4FF">
-🤔 Pourquoi j'ai choisi : 3xpl0it sh4dow / exploit shadow ? :
-</pre>
-<pre color="#FFFA78">
-J'ai beaucoup de messages négatifs par rapport à mon pseudo, 
-Les gens déterminent ton identité par rapport à ton pseudo, on prétend que je suis un <a href="https://en.wiktionary.org/wiki/h4x0r">h4x0r.</a>
-Plus sérieusement, j'ai choisi ça car la faille est humaine avant tout, c'est les humains qui concoivent, 
-les failles il y en a dans tout les domaines, autant dans la vie quotidienne que dans l'informatique.
-</pre>
-<!-- FIN : About Me -->
 
 <!-- DEB : Social Links -->
 <p align="center">
@@ -43,4 +22,26 @@ les failles il y en a dans tout les domaines, autant dans la vie quotidienne que
   </a>
 </p>
 <!-- FIN : Social Links -->
+
+<!-- DEB : About Me -->
+<pre color="#00A4FF">
+👋 Brève présentation :
+</pre>
+<pre color="#FFFA78">
+Salut, moi c'est Jason, Breton âgé de 22ans.
+Passionné d'informatique depuis l'âge de 12ans, plus particulièrement à la cybersecurité.
+Dès l'âge de 16ans j'ai découvert Linux (merci Fred R.I.P), j'ai tout de suite eu le coup de foudre.
+Je suis aussi Mélomane à côté de ça, et depuis peu j'essaie de créer mes musiques sous LMMS.
+</pre>
+
+<pre color="#00A4FF">
+🤔 Pourquoi j'ai choisi : 3xpl0it sh4dow / exploit shadow ? :
+</pre>
+<pre color="#FFFA78">
+J'ai beaucoup de messages négatifs par rapport à mon pseudo, 
+Les gens déterminent ton identité par rapport à ton pseudo, on prétend que je suis un <a href="https://en.wiktionary.org/wiki/h4x0r">h4x0r.</a>
+Plus sérieusement, j'ai choisi ça car la faille est humaine avant tout, c'est les humains qui concoivent, 
+les failles il y en a dans tout les domaines, autant dans la vie quotidienne que dans l'informatique.
+</pre>
+<!-- FIN : About Me -->
 <hr>
