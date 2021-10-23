@@ -1,4 +1,17 @@
 <hr>
+<!-- DEB : Stats -->
+<p align="center">
+  <a href="https://github.com/3xpl0it-Sh4d0w/3xpl0it-Sh4d0w/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/3xpl0it-sh4d0w/3xpl0it-sh4d0w?style=for-the-badge&color=blue">
+  </a>
+  <a href="https://github.com/3xpl0it-sh4d0w/3xpl0it-sh4d0w">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/3xpl0it-sh4d0w/3xpl0it-sh4d0w?style=for-the-badge&color=blue">  
+  </a>
+  <a href="https:/github.com/sponsors/3xpl0it-sh4d0w">
+    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/3xpl0it-sh4d0w?style=for-the-badge&color=blue">
+  </a>
+</p>
+<!-- FIN : Stats -->
 
 <!-- DEB : Social Links -->
 <p align="center">
@@ -29,24 +42,17 @@
 <!-- FIN : Social Links -->
 
 <!-- DEB : About Me -->
-<pre color="#00A4FF">
-👋 Brève présentation :
-</pre>
-<pre color="#FFFA78">
-Salut, moi c'est Jason, Breton âgé de 22ans.
-Passionné d'informatique depuis l'âge de 12ans, plus particulièrement à la cybersecurité.
-Dès l'âge de 16ans j'ai découvert Linux (merci Fred R.I.P), j'ai tout de suite eu le coup de foudre.
-Je suis aussi Mélomane à côté de ça, et depuis peu j'essaie de créer mes musiques sous LMMS.
+<pre>
+👋 Hey ! Je me présente : Jason, 22 Ans, <a href="">Breton</a>.
+J'ai choisi "3xpl0it sh4d0w" non pas parce-que je suis un <a href="https://fr.wikipedia.org/wiki/Script_kiddie">h4x0r</a>.
+dèjà il faut savoir que j'ai choisi de faire de l'informatique pour nuire à quiconque.
+J'ai choisi de faire de l'informatique pour protèger des entreprises contre les attaques.
+Je voulais à travers ce pseudo dire que la faille est avant tout humaine et ce dans n'importe quel domaine.
 </pre>
 
-<pre color="#00A4FF">
-🤔 Pourquoi j'ai choisi : 3xpl0it sh4dow / exploit shadow ? :
-</pre>
-<pre color="#FFFA78">
-J'ai beaucoup de messages négatifs par rapport à mon pseudo, 
-Les gens déterminent ton identité par rapport à ton pseudo, on prétend que je suis un <a href="https://en.wiktionary.org/wiki/h4x0r">h4x0r</a>.
-Plus sérieusement, j'ai choisi ça car la faille est humaine avant tout, c'est les humains qui concoivent, 
-"Les failles il y en a dans tout les domaines, autant dans la vie quotidienne que dans l'informatique."
+<pre>
+😃 Il faut savoir que je suis passionné dans divers domaines :
+<a href="https://fr.wikipedia.org/wiki/M%C3%A9lomane">La Musique</a>, <a href="https://fr.wikipedia.org/wiki/Sport_m%C3%A9canique">Les Sports Mécaniques</a>, <a href="https://fr.wikipedia.org/wiki/Sport_de_combat">Les Sports de Combats</a>, <a href="https://fr.wikipedia.org/wiki/Astronomie">L'Astronomie</a>, <a href="https://fr.wikipedia.org/wiki/Astrophotographie">L'Astrophotographie</a>.
 </pre>
 <!-- FIN : About Me -->
 <hr>
