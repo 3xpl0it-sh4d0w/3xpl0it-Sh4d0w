@@ -7,7 +7,7 @@
   <a href="https://github.com/3xpl0it-sh4d0w/3xpl0it-sh4d0w">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/3xpl0it-sh4d0w/3xpl0it-sh4d0w?style=for-the-badge&color=blue">  
   </a>
-  <a href="https:/github.com/sponsors/3xpl0it-sh4d0w">
+  <a href="https://github.com/sponsors/3xpl0it-sh4d0w">
     <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/3xpl0it-sh4d0w?style=for-the-badge&color=blue">
   </a>
 </p>
