@@ -41,6 +41,9 @@
   <a href="https://soundcloud.com/3xpl0it-sh4d0w">
     <img src="https://img.shields.io/badge/-Soundcloud-blue?logo=soundcloud&labelColor=3b3b3b&color=white">
   </a>
+  <a href="https://www.youtube.com/channel/UCXAlT87pnaJjawwyJ-ENsPA">
+  <img src="https://img.shields.io/badge/-Youtube-blue?logo=youtube&labelColor=3b3b3b&color=white">
+  </a>
   <a href="https://open.spotify.com/user/i0kcuqkr5pj6765i2ei0w1gty">
     <img src="https://img.shields.io/badge/-Spotify-blue?logo=spotify&labelColor=3b3b3b&color=white">
   </a>
