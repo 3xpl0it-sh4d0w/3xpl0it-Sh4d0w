@@ -20,8 +20,23 @@
     <img src="">
   </a>
 -->
+  <a href="https://gitlab.com/3xpl0it.sh4d0w">
+    <img src="https://img.shields.io/badge/-Gitlab-blue?logo=gitlab&labelColor=3b3b3b&color=white">
+  </a>
   <a href="https://instagram.com/3xpl0it.sh4d0w">
     <img src="https://img.shields.io/badge/-Instagram-blue?logo=instagram&logoColor=ff00ca&labelColor=3b3b3b&color=white">
+  </a>
+  <a href="https://tiktok.com/@3xpl0it.sh4d0w">
+    <img src="https://img.shields.io/badge/-Tiktok-blue?logo=tiktok&labelColor=3b3b3b&color=white">
+  </a>
+  <a href="https://soundcloud.com/3xpl0it-sh4d0w">
+    <img src="https://img.shields.io/badge/-Soundcloud-blue?logo=soundcloud&labelColor=3b3b3b&color=white">
+  </a>
+  <a href="https://www.youtube.com/channel/UCXAlT87pnaJjawwyJ-ENsPA">
+    <img src="https://img.shields.io/badge/-Youtube-blue?logo=youtube&labelColor=3b3b3b&color=white">
+  </a>
+  <a href="https://open.spotify.com/user/i0kcuqkr5pj6765i2ei0w1gty">
+    <img src="https://img.shields.io/badge/-Spotify-blue?logo=spotify&labelColor=3b3b3b&color=white">
   </a>
   <a href="https://telegram.me/exploit_shadow">
     <img src="https://img.shields.io/badge/-Telegram-blue?logo=telegram&labelColor=3b3b3b&color=white">
@@ -29,23 +44,9 @@
   <a href="https://discord.com/users/744961307932885052">
     <img src="https://img.shields.io/badge/-Discord-blue?logo=discord&labelColor=3b3b3b&color=white">
   </a>
-  <a href="https://gitlab.com/3xpl0it.sh4d0w">
-    <img src="https://img.shields.io/badge/-Gitlab-blue?logo=gitlab&labelColor=3b3b3b&color=white">
-  </a>
-  <a href="https://tiktok.com/@3xpl0it.sh4d0w">
-    <img src="https://img.shields.io/badge/-Tiktok-blue?logo=tiktok&labelColor=3b3b3b&color=white">
-  </a>
+
   <a href="https://mamot.fr/@3xpl0it_sh4d0w">
     <img src="https://img.shields.io/badge/-Mastodon-blue?logo=mastodon&labelColor=3b3b3b&color=white">
-  </a>
-  <a href="https://soundcloud.com/3xpl0it-sh4d0w">
-    <img src="https://img.shields.io/badge/-Soundcloud-blue?logo=soundcloud&labelColor=3b3b3b&color=white">
-  </a>
-  <a href="https://www.youtube.com/channel/UCXAlT87pnaJjawwyJ-ENsPA">
-  <img src="https://img.shields.io/badge/-Youtube-blue?logo=youtube&labelColor=3b3b3b&color=white">
-  </a>
-  <a href="https://open.spotify.com/user/i0kcuqkr5pj6765i2ei0w1gty">
-    <img src="https://img.shields.io/badge/-Spotify-blue?logo=spotify&labelColor=3b3b3b&color=white">
   </a>
 </p>
 <!-- FIN : Social Links -->
