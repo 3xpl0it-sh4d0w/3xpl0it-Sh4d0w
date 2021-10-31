@@ -57,7 +57,7 @@
 👋 Hey ! Je me présente : Jason, 22 Ans, <a href="">Breton</a>.
 J'ai choisi "3xpl0it sh4d0w" non pas parce-que je suis un <a href="https://fr.wikipedia.org/wiki/Script_kiddie">👨‍💻 h4x0r</a>.
 Il faut savoir que j'ai choisi de faire de l'<a href="https://fr.wikipedia.org/wiki/Informatique">informatique</a> pour nuire à quiconque.
-J'ai choisi de faire de l'informatique pour protèger des entreprises contre les <a href="https://fr.wikipedia.org/wiki/Cyberattaque#D%C3%A9finitions">attaques</a>.
+J'ai choisi de faire de l'informatique pour protèger des entreprises contre les <a href="https://fr.wikipedia.org/wiki/Cyberattaque#D%C3%A9finitions">cyber-attaques</a>.
 Je voulais à travers ce pseudo dire que la faille est avant tout humaine et ce dans n'importe quel domaine.
 </pre>
 <pre>
