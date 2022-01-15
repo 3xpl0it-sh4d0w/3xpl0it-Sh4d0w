@@ -66,6 +66,6 @@ Je voulais à travers ce pseudo dire que la faille est avant tout humaine et ce 
 </pre>
 <!-- FIN : About Me -->
 
-<video src="https://user-images.githubusercontent.com/85597175/149284809-7041d9b7-7c66-4c2e-9991-44442c22a7f6.mp4">
+<!--<video src="https://user-images.githubusercontent.com/85597175/149284809-7041d9b7-7c66-4c2e-9991-44442c22a7f6.mp4">-->
 
 <hr>
