@@ -57,7 +57,7 @@
 <!-- DEB : Activity -->
 <p align="center">
   <a href="">
-    <img src="http://ghchart.rshah.org/3xpl0it-sh4d0w"/>
+    <img src="http://ghchart.rshah.org/008EFF/3xpl0it-sh4d0w"/>
   </a>
 </p>
 <!-- FIN : Activity -->
