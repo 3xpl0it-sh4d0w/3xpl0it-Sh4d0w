@@ -35,9 +35,11 @@
   <a href="https://www.youtube.com/channel/UCXAlT87pnaJjawwyJ-ENsPA">
     <img src="https://img.shields.io/badge/-YOUTUBE-blue?logo=youtube&labelColor=3b3b3b&color=white">
   </a>
+<!--
   <a href="https://open.spotify.com/user/i0kcuqkr5pj6765i2ei0w1gty">
     <img src="https://img.shields.io/badge/-SPOTIFY-blue?logo=spotify&labelColor=3b3b3b&color=white">
   </a>
+-->
   <a href="https://telegram.me/exploit_shadow">
     <img src="https://img.shields.io/badge/-TELEGRAM-blue?logo=telegram&labelColor=3b3b3b&color=white">
   </a>
