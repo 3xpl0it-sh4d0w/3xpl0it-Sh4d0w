@@ -54,6 +54,14 @@
 </p>
 <!-- FIN : Social Links -->
 
+<!-- DEB : Activity -->
+<p align="center">
+  <a href="">
+    <img src="http://ghchart.rshah.org/3xpl0it-sh4d0w"/>
+  </a>
+</p>
+<!-- FIN : Activity -->
+
 <!-- DEB : About Me -->
 <pre>
 👋 Hey ! Je me présente : Jason, 22 Ans, <a href="">Breton</a>.
