@@ -1,5 +1,5 @@
 <hr>
-<!-- DEB : Stats -->
+<!-- DEB : Stats & Other -->
 <p align="center">
   <a href="https://github.com/3xpl0it-sh4d0w/3xpl0it-sh4d0w">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/3xpl0it-sh4d0w/3xpl0it-sh4d0w?style=for-the-badge&color=blue">  
@@ -11,7 +11,15 @@
     <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/3xpl0it-sh4d0w?style=for-the-badge&color=blue">
   </a>
 </p>
-<!-- FIN : Stats -->
+<!-- FIN : Stats & Other -->
+
+<!-- DEB : Activity -->
+<p align="center">
+  <a href="">
+    <img src="http://ghchart.rshah.org/008EFF/3xpl0it-sh4d0w"/>
+  </a>
+</p>
+<!-- FIN : Activity -->
 
 <!-- DEB : Social Links -->
 <p align="center">
@@ -53,14 +61,6 @@
 -->
 </p>
 <!-- FIN : Social Links -->
-
-<!-- DEB : Activity -->
-<p align="center">
-  <a href="">
-    <img src="http://ghchart.rshah.org/008EFF/3xpl0it-sh4d0w"/>
-  </a>
-</p>
-<!-- FIN : Activity -->
 
 <!-- DEB : About Me -->
 <pre>
