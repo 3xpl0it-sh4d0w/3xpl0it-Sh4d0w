@@ -1,8 +1,8 @@
 <hr>
 <!-- DEB : Stats & Other -->
-<p align="center">
-  <a href="https://github.com/3xpl0it-Sh4d0w/3xpl0it-Sh4d0w/commits/main">
-    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/3xpl0it-sh4d0w/3xpl0it-sh4d0w?style=for-the-badge&color=blue">
+<p align="center">  
+  <a href="https://github.com/sponsors/3xpl0it-sh4d0w">
+    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/3xpl0it-sh4d0w?style=for-the-badge&color=blue">
   </a>
   <a href="https://github.com/3xpl0it-Sh4d0w?tab=followers">
     <img alt="Followers" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWERS&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue">
@@ -10,8 +10,8 @@
   <a href="https://github.com/3xpl0it-Sh4d0w?tab=following">
     <img alt="Followers" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWING&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue">
   </a>  
-  <a href="https://github.com/sponsors/3xpl0it-sh4d0w">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/3xpl0it-sh4d0w?style=for-the-badge&color=blue">
+  <a href="https://github.com/3xpl0it-Sh4d0w/3xpl0it-Sh4d0w/commits/main">
+    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/3xpl0it-sh4d0w/3xpl0it-sh4d0w?style=for-the-badge&color=blue">
   </a>
 </p>
 <!-- FIN : Stats & Other -->
