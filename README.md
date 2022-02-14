@@ -68,22 +68,38 @@
 </p>
 <!-- FIN : Social Links -->
 
+<!--
 <p align="center">
   <a href="https://github.com/2016rshah/githubchart-api">
     <img src="http://ghchart.rshah.org/008EFF/3xpl0it-sh4d0w"/>
   </a>
 </p>
+-->
 <!-- FIN : Activity -->
 
-<!-- DEB : Custom Text Logo -->
-<p align="left">
-  <a href="https://github.com/3xpl0it-Sh4d0w">
-    <img src="https://camo.githubusercontent.com/b78dda27aefdb33e2eead9d720b794281698b765db14e60f928aa953697366a2/68747470733a2f2f696d616765732e636f6f6c746578742e636f6d2f353538333332382e706e67">
-  </a>
-</p>
-<!-- FIN : Custom Text Logo -->
+<details>
+  <summary>🇬🇧 <b>View my Biography :</b></summary>
+  
+<!-- DEB : About Me -->
+<pre>
+Hey! Let me introduce myself : Jason, 22 years old, <a href="">Breton</a> 👋.
+<b>I've chosen "3xpl0it sh4d0w"</b> not because I'm a <a href="https://en.wikipedia.org/wiki/Script_kiddie">Kiddie</a> 👨‍💻. 
+You should know that I chose to do <a href="https://en.wikipedia.org/wiki/Computer_science">Computer Science</a> to harm anyone 😐.
+I chose to work in IT to protect companies against <a href="https://en.wikipedia.org/wiki/Cyberattack">Cyber Attacks 💀</a>.
+I wanted to say through this pseudo that <a href="">Vulnerability</a> is above all human, in any field 😰.
+</pre>
 
+<pre>
+<b>You should know that I am passionate in various fields 😃 :</b>
+<a href="https://en.wikipedia.org/wiki/Music">🎵 The Music</a>, <a href="https://en.wikipedia.org/wiki/Motorsport">🏎️ Mechanical Sports</a>, <a href="https://en.wikipedia.org/wiki/Combat_sport">🥋 Fighting Sports</a>, <a href="https://en.wikipedia.org/wiki/Astronomy">🌃 The Astronomy</a>, <a href="https://en.wikipedia.org/wiki/Astrophotography">🔭 The Astrophotography</a>.
+</pre>
+<!-- FIN : About Me -->
+  
+</details>
 
+<details>
+  <summary>🇫🇷 <b>Visionner ma Biographie :</b></summary>
+  
 <!-- DEB : About Me -->
 <pre>
 Hey ! Je me présente : Jason, 22 Ans, <a href="">Breton</a> 👋.
@@ -98,6 +114,8 @@ Je voulais à travers ce pseudo dire que la <a href="https://fr.wikipedia.org/wi
 <a href="https://fr.wikipedia.org/wiki/M%C3%A9lomane">🎵 La Musique</a>, <a href="https://fr.wikipedia.org/wiki/Sport_m%C3%A9canique">🏎️ Les Sports Mécaniques</a>, <a href="https://fr.wikipedia.org/wiki/Sport_de_combat">🥋 Les Sports de Combats</a>, <a href="https://fr.wikipedia.org/wiki/Astronomie">🌃 L'Astronomie</a>, <a href="https://fr.wikipedia.org/wiki/Astrophotographie">🔭 L'Astrophotographie</a>.
 </pre>
 <!-- FIN : About Me -->
+  
+</details>
 
 <!--<video src="https://user-images.githubusercontent.com/85597175/149284809-7041d9b7-7c66-4c2e-9991-44442c22a7f6.mp4">-->
 
