@@ -60,12 +60,12 @@
 
 <p align="center">
   <table>
-    <tr>
-      <td align="center" style="width: 100%;">
-        <img src="https://github-readme-stats.vercel.app/api/?username=3xpl0it-sh4d0w&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=github_dark&locale=fr" />
-      </td>      
+    <tr>      
       <td align="center" style="width: 100%;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xpl0it-sh4d0w&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=github_dark&locale=fr" />
+      </td>
+      <td align="center" style="width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api/?username=3xpl0it-sh4d0w&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=github_dark&locale=fr" />
       </td>
     </tr>
   </table>
