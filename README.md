@@ -76,7 +76,7 @@
 </p>
 
 <!-- DEB : About Me FR -->
-<details open>
+<details>
   <summary>🇫🇷 <b>Biographie Française :</b></summary>
   
 <!-- DEB : About Me -->
