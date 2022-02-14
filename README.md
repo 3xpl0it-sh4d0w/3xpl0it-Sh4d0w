@@ -77,7 +77,7 @@
 -->
 <!-- FIN : Activity -->
 
-<details>
+<details open>
   <summary>🇬🇧 <b>View my Biography :</b></summary>
   
 <!-- DEB : About Me -->
