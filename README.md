@@ -78,8 +78,7 @@
 <!-- FIN : Activity -->
 
 <details open>
-  <summary>🇬🇧 <b>View my Biography :</b></summary>
-  
+  <summary>🇬🇧 <b>View my Biography Englishwoman :</b></summary>
 <!-- DEB : About Me -->
 <pre>
 Hey! Let me introduce myself : Jason, 22 years old, <a href="">Breton</a> 👋.
@@ -88,7 +87,7 @@ You should know that I chose to do <a href="https://en.wikipedia.org/wiki/Comput
 I chose to work in IT to protect companies against <a href="https://en.wikipedia.org/wiki/Cyberattack">Cyber Attacks 💀</a>.
 I wanted to say through this pseudo that <a href="">Vulnerability</a> is above all human, in any field 😰.
 </pre>
-
+  
 <pre>
 <b>You should know that I am passionate in various fields 😃 :</b>
 <a href="https://en.wikipedia.org/wiki/Music">🎵 The Music</a>, <a href="https://en.wikipedia.org/wiki/Motorsport">🏎️ Mechanical Sports</a>, <a href="https://en.wikipedia.org/wiki/Combat_sport">🥋 Fighting Sports</a>, <a href="https://en.wikipedia.org/wiki/Astronomy">🌃 The Astronomy</a>, <a href="https://en.wikipedia.org/wiki/Astrophotography">🔭 The Astrophotography</a>.
@@ -98,7 +97,7 @@ I wanted to say through this pseudo that <a href="">Vulnerability</a> is above a
 </details>
 
 <details>
-  <summary>🇫🇷 <b>Visionner ma Biographie :</b></summary>
+  <summary>🇫🇷 <b>Visionner ma Biographie Française :</b></summary>
   
 <!-- DEB : About Me -->
 <pre>
