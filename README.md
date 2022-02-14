@@ -1,8 +1,8 @@
 <hr>
 
 <p align="center">
-    <a href="">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=364&lines=3xpl0it+Sh4d0w">
+    <a href="https://readme-typing-svg.herokuapp.com/">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=350&lines=3xpl0it+Sh4d0w">
     </a>    
 </p>
 
