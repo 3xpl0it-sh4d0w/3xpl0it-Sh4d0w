@@ -78,7 +78,7 @@
 <!-- DEB : About Me EN -->
 <blockquote>
 <details>
-    <summary>🇬🇧 <b>English Biography : </b></summary>
+    <summary>🇬🇧 <b>ABOUT ME : </b></summary>
 <pre>
 Hey! Let me introduce myself : Jason, 22 years old, <a href="https://en.wikipedia.org/wiki/Brittany">Breton</a> 👋.
 <b>I've chosen "3xpl0it sh4d0w"</b> not because I'm a <a href="https://en.wikipedia.org/wiki/Script_kiddie">Kiddie</a> 👨‍💻. 
@@ -98,7 +98,7 @@ I wanted to say through this pseudo that <a href="">Vulnerability</a> is above a
 <!-- DEB : About Me FR -->
 <blockquote>
 <details>
-    <summary>🇫🇷 <b>Biographie Française : </b></summary>
+    <summary>🇫🇷 <b>A PROPOS DE MOI : </b></summary>
 <pre>
 Hey ! Je me présente : Jason, 22 Ans, <a href="https://fr.wikipedia.org/wiki/Bretagne">Breton</a> 👋.
 <b>J'ai choisi "3xpl0it sh4d0w"</b> non pas parce-que je suis un <a href="https://fr.wikipedia.org/wiki/Script_kiddie">Kiddie</a> 👨‍💻. 
