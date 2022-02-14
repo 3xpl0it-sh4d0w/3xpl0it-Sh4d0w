@@ -64,7 +64,7 @@
 Hey! Let me introduce myself : Jason, 22 years old, <a href="">Breton</a> 👋.
 <b>I've chosen "3xpl0it sh4d0w"</b> not because I'm a <a href="https://en.wikipedia.org/wiki/Script_kiddie">Kiddie</a> 👨‍💻. 
 You should know that I chose to do <a href="https://en.wikipedia.org/wiki/Computer_science">Computer Science</a> to harm anyone 😐.
-I chose to work in IT to protect companies against <a href="https://en.wikipedia.org/wiki/Cyberattack">Cyber Attacks</a>💀.
+I chose to work in IT to protect companies against <a href="https://en.wikipedia.org/wiki/Cyberattack">Cyber Attacks</a> 💀.
 I wanted to say through this pseudo that <a href="">Vulnerability</a> is above all human, in any field 😰.
 </pre>
   
