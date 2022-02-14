@@ -1,14 +1,5 @@
 <hr>
 
-<!-- DEB : Custom Text Logo -->
-<p align="center">
-  
-  <a href="https://github.com/3xpl0it-Sh4d0w">
-    <img src="https://camo.githubusercontent.com/b78dda27aefdb33e2eead9d720b794281698b765db14e60f928aa953697366a2/68747470733a2f2f696d616765732e636f6f6c746578742e636f6d2f353538333332382e706e67">
-    
-</p>
-<!-- FIN : Custom Text Logo -->
-
 <!-- DEB : Stats & Other -->
 <p align="center">
   
@@ -78,13 +69,20 @@
 <!-- FIN : Social Links -->
 
 <p align="center">
-  
   <a href="https://github.com/2016rshah/githubchart-api">
     <img src="http://ghchart.rshah.org/008EFF/3xpl0it-sh4d0w"/>
   </a>
-  
 </p>
 <!-- FIN : Activity -->
+
+<!-- DEB : Custom Text Logo -->
+<p align="left">
+  <a href="https://github.com/3xpl0it-Sh4d0w">
+    <img src="https://camo.githubusercontent.com/b78dda27aefdb33e2eead9d720b794281698b765db14e60f928aa953697366a2/68747470733a2f2f696d616765732e636f6f6c746578742e636f6d2f353538333332382e706e67">
+  </a>
+</p>
+<!-- FIN : Custom Text Logo -->
+
 
 <!-- DEB : About Me -->
 <pre>
