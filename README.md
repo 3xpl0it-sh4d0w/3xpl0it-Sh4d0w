@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://readme-typing-svg.herokuapp.com/">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=3000&center=true&vCenter=true&lines=%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F+3xpl0it+sh4d0w+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%94%8E+Spying+%E2%80%A2+Coding+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%9B%A1%EF%B8%8F+Security+%E2%80%A2+Forensic+%F0%9F%94%93">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=3000&center=true&vCenter=true&lines=%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F+3XPL0IT+SH4D0W+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%94%8E+5PY1NG+%E2%80%A2+COD1NG+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%9B%A1%EF%B8%8F+S3CUR1TY+%E2%80%A2+F0R3NS1C+%F0%9F%94%93">
     </a>    
 </p>
 
