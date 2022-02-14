@@ -75,7 +75,7 @@ Je voulais à travers ce pseudo dire que la <a href="https://fr.wikipedia.org/wi
 </pre>
 
 <pre>
-Il faut savoir que je suis passionné dans divers domaines 😃 :
+<b>Il faut savoir que je suis passionné dans divers domaines 😃 :</b>
 <a href="https://fr.wikipedia.org/wiki/M%C3%A9lomane">🎵 La Musique</a>, <a href="https://fr.wikipedia.org/wiki/Sport_m%C3%A9canique">🏎️ Les Sports Mécaniques</a>, <a href="https://fr.wikipedia.org/wiki/Sport_de_combat">🥋 Les Sports de Combats</a>, <a href="https://fr.wikipedia.org/wiki/Astronomie">🌃 L'Astronomie</a>, <a href="https://fr.wikipedia.org/wiki/Astrophotographie">🔭 L'Astrophotographie</a>.
 </pre>
 <!-- FIN : About Me -->
