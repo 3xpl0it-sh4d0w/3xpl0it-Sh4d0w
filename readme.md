@@ -76,8 +76,9 @@
 </p>
 
 <!-- DEB : About Me EN -->
+<blockquote>
 <details>
-  <summary>🇬🇧 <b>English Biography : </b></summary><br>
+    <summary>🇬🇧 <b>English Biography : </b></summary>
 <pre>
 Hey! Let me introduce myself : Jason, 22 years old, <a href="https://en.wikipedia.org/wiki/Brittany">Breton</a> 👋.
 <b>I've chosen "3xpl0it sh4d0w"</b> not because I'm a <a href="https://en.wikipedia.org/wiki/Script_kiddie">Kiddie</a> 👨‍💻. 
@@ -89,15 +90,15 @@ I wanted to say through this pseudo that <a href="">Vulnerability</a> is above a
 <pre>
 <b>You should know that I am passionate in various fields 😃 :</b>
 <a href="https://en.wikipedia.org/wiki/Music">🎵 The Music</a>, <a href="https://en.wikipedia.org/wiki/Motorsport">🏎️ Mechanical Sports</a>, <a href="https://en.wikipedia.org/wiki/Combat_sport">🥋 Fighting Sports</a>, <a href="https://en.wikipedia.org/wiki/Astronomy">🌃 The Astronomy</a>, <a href="https://en.wikipedia.org/wiki/Astrophotography">🔭 The Astrophotography</a>.
-</pre>  
+</pre>
 </details>
+</blockquote>
 <!-- FIN : About Me EN -->
 
 <!-- DEB : About Me FR -->
+<blockquote>
 <details>
-  <summary>🇫🇷 <b>Biographie Française : </b></summary><br>
-  
-<!-- DEB : About Me -->
+    <summary>🇫🇷 <b>Biographie Française : </b></summary>
 <pre>
 Hey ! Je me présente : Jason, 22 Ans, <a href="https://fr.wikipedia.org/wiki/Bretagne">Breton</a> 👋.
 <b>J'ai choisi "3xpl0it sh4d0w"</b> non pas parce-que je suis un <a href="https://fr.wikipedia.org/wiki/Script_kiddie">Kiddie</a> 👨‍💻. 
@@ -109,8 +110,9 @@ Je voulais à travers ce pseudo dire que la <a href="https://fr.wikipedia.org/wi
 <pre>
 <b>Il faut savoir que je suis passionné dans divers domaines 😃 :</b>
 <a href="https://fr.wikipedia.org/wiki/M%C3%A9lomane">🎵 La Musique</a>, <a href="https://fr.wikipedia.org/wiki/Sport_m%C3%A9canique">🏎️ Les Sports Mécaniques</a>, <a href="https://fr.wikipedia.org/wiki/Sport_de_combat">🥋 Les Sports de Combats</a>, <a href="https://fr.wikipedia.org/wiki/Astronomie">🌃 L'Astronomie</a>, <a href="https://fr.wikipedia.org/wiki/Astrophotographie">🔭 L'Astrophotographie</a>.
-</pre>  
+</pre>
 </details>
+</blockquote>
 <!-- FIN : About Me FR -->
 
 <!--<video src="https://user-images.githubusercontent.com/85597175/149284809-7041d9b7-7c66-4c2e-9991-44442c22a7f6.mp4">-->
