@@ -79,7 +79,7 @@
 
 <!-- DEB : About Me FR -->
 <details>
-  <summary>🇫🇷 <b>Biographie Française :</b></summary>
+  <summary>🇫🇷 <b>Biographie Française :</b></summary><br>
   
 <!-- DEB : About Me -->
 <pre>
@@ -99,7 +99,7 @@ Je voulais à travers ce pseudo dire que la <a href="https://fr.wikipedia.org/wi
 
 <!-- DEB : About Me EN -->
 <details>
-  <summary>🇬🇧 <b>Biography EnglishWoman :</b></summary>
+  <summary>🇬🇧 <b>Biography EnglishWoman :</b></summary><br>
 <pre>
 Hey! Let me introduce myself : Jason, 22 years old, <a href="">Breton</a> 👋.
 <b>I've chosen "3xpl0it sh4d0w"</b> not because I'm a <a href="https://en.wikipedia.org/wiki/Script_kiddie">Kiddie</a> 👨‍💻. 
