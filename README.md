@@ -2,25 +2,32 @@
 
 <!-- DEB : Custom Text Logo -->
 <p align="center">
+  
   <a href="https://github.com/3xpl0it-Sh4d0w">
     <img src="https://camo.githubusercontent.com/b78dda27aefdb33e2eead9d720b794281698b765db14e60f928aa953697366a2/68747470733a2f2f696d616765732e636f6f6c746578742e636f6d2f353538333332382e706e67">
+    
 </p>
 <!-- FIN : Custom Text Logo -->
 
 <!-- DEB : Stats & Other -->
-<p align="center">  
-  <a href="https://github.com/sponsors/3xpl0it-sh4d0w">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/3xpl0it-sh4d0w?style=for-the-badge&color=blue">
-  </a>
-  <a href="https://github.com/3xpl0it-Sh4d0w?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWERS&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue">
-  </a>
-  <a href="https://github.com/3xpl0it-Sh4d0w?tab=following">
-    <img alt="Following" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWING&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue">
-  </a>  
+<p align="center">
+  
   <a href="https://github.com/3xpl0it-Sh4d0w/3xpl0it-Sh4d0w/commits/main">
     <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/3xpl0it-sh4d0w/3xpl0it-sh4d0w?style=for-the-badge&color=blue">
   </a>
+
+  <a href="https://github.com/sponsors/3xpl0it-sh4d0w">
+    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/3xpl0it-sh4d0w?style=for-the-badge&color=blue">
+  </a>
+  
+  <a href="https://github.com/3xpl0it-Sh4d0w?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWERS&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue">
+  </a>
+  
+  <a href="https://github.com/3xpl0it-Sh4d0w?tab=following">
+    <img alt="Following" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWING&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue">
+  </a> 
+  
 </p>
 <!-- FIN : Stats & Other -->
 
@@ -34,15 +41,19 @@
   <a href="https://gitlab.com/3xpl0it.sh4d0w">
     <img src="https://img.shields.io/badge/-GITLAB-blue?logo=gitlab&labelColor=3b3b3b&color=white">
   </a>
+  
   <a href="https://instagram.com/3xpl0it.sh4d0w">
     <img src="https://img.shields.io/badge/-INSTAGRAM-blue?logo=instagram&logoColor=ff00ca&labelColor=3b3b3b&color=white">
   </a>
+  
   <a href="https://tiktok.com/@3xpl0it.sh4d0w">
     <img src="https://img.shields.io/badge/-TIKTOK-blue?logo=tiktok&labelColor=3b3b3b&color=white">
   </a>
+  
   <a href="https://soundcloud.com/3xpl0it-sh4d0w">
     <img src="https://img.shields.io/badge/-SOUNDCLOUD-blue?logo=soundcloud&labelColor=3b3b3b&color=white">
   </a>
+  
   <a href="https://www.youtube.com/channel/UCXAlT87pnaJjawwyJ-ENsPA">
     <img src="https://img.shields.io/badge/-YOUTUBE-blue?logo=youtube&labelColor=3b3b3b&color=white">
   </a>
@@ -54,6 +65,7 @@
   <a href="https://telegram.me/exploit_shadow">
     <img src="https://img.shields.io/badge/-TELEGRAM-blue?logo=telegram&labelColor=3b3b3b&color=white">
   </a>
+  
   <a href="https://discord.com/users/744961307932885052">
     <img src="https://img.shields.io/badge/-DISCORD-blue?logo=discord&labelColor=3b3b3b&color=white">
   </a>
@@ -66,9 +78,11 @@
 <!-- FIN : Social Links -->
 
 <p align="center">
+  
   <a href="https://github.com/2016rshah/githubchart-api">
     <img src="http://ghchart.rshah.org/008EFF/3xpl0it-sh4d0w"/>
   </a>
+  
 </p>
 <!-- FIN : Activity -->
 
