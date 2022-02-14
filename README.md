@@ -58,7 +58,7 @@
 <!-- FIN : Social Links -->
 
 <!-- DEB : About Me EN -->
-<details open>
+<details>
   <summary>🇬🇧 <b>View my Biography Englishwoman :</b></summary>
 <pre>
 Hey! Let me introduce myself : Jason, 22 years old, <a href="">Breton</a> 👋.
@@ -76,7 +76,7 @@ I wanted to say through this pseudo that <a href="">Vulnerability</a> is above a
 <!-- FIN : About Me EN -->
 
 <!-- DEB : About Me FR -->
-<details>
+<details open>
   <summary>🇫🇷 <b>Visionner ma Biographie Française :</b></summary>
   
 <!-- DEB : About Me -->
