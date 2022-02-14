@@ -58,8 +58,8 @@
 <!-- FIN : Social Links -->
 
 <!-- DEB : About Me EN -->
-<details>
-  <summary>🇬🇧 <b>View my Biography Englishwoman :</b></summary>
+<details open>
+  <summary>🇬🇧 <b>View my Biography EnglishWoman :</b></summary>
 <pre>
 Hey! Let me introduce myself : Jason, 22 years old, <a href="">Breton</a> 👋.
 <b>I've chosen "3xpl0it sh4d0w"</b> not because I'm a <a href="https://en.wikipedia.org/wiki/Script_kiddie">Kiddie</a> 👨‍💻. 
@@ -76,7 +76,7 @@ I wanted to say through this pseudo that <a href="">Vulnerability</a> is above a
 <!-- FIN : About Me EN -->
 
 <!-- DEB : About Me FR -->
-<details open>
+<details>
   <summary>🇫🇷 <b>Visionner ma Biographie Française :</b></summary>
   
 <!-- DEB : About Me -->
