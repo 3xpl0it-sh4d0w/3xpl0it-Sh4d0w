@@ -62,8 +62,6 @@
 </p>
 <!-- FIN : Social Links -->
 
-<hr>
-
 <p align="center">
   <table>
     <tr>      
