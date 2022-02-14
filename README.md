@@ -1,4 +1,11 @@
 <hr>
+
+<!-- DEB : Custom Text Logo -->
+<p align="center">
+  <img src="https://images.cooltext.com/5583328.png"></img>
+</p>
+<!-- FIN : Custom Text Logo -->
+
 <!-- DEB : Stats & Other -->
 <p align="center">  
   <a href="https://github.com/sponsors/3xpl0it-sh4d0w">
@@ -57,7 +64,6 @@
 </p>
 <!-- FIN : Social Links -->
 
-<!-- DEB : Activity -->
 <p align="center">
   <a href="https://github.com/2016rshah/githubchart-api">
     <img src="http://ghchart.rshah.org/008EFF/3xpl0it-sh4d0w"/>
