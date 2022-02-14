@@ -77,6 +77,24 @@
   </table>
 </p>
 
+<!-- DEB : About Me EN -->
+<details>
+  <summary>🇬🇧 <b>English Biography : </b></summary><br>
+<pre>
+Hey! Let me introduce myself : Jason, 22 years old, <a href="">Breton</a> 👋.
+<b>I've chosen "3xpl0it sh4d0w"</b> not because I'm a <a href="https://en.wikipedia.org/wiki/Script_kiddie">Kiddie</a> 👨‍💻. 
+You should know that I chose to do <a href="https://en.wikipedia.org/wiki/Computer_science">Computer Science</a> to harm anyone 😐.
+I chose to work in IT to protect companies against <a href="https://en.wikipedia.org/wiki/Cyberattack">Cyber Attacks</a> 💀.
+I wanted to say through this pseudo that <a href="">Vulnerability</a> is above all human, in any field 😰.
+</pre>
+  
+<pre>
+<b>You should know that I am passionate in various fields 😃 :</b>
+<a href="https://en.wikipedia.org/wiki/Music">🎵 The Music</a>, <a href="https://en.wikipedia.org/wiki/Motorsport">🏎️ Mechanical Sports</a>, <a href="https://en.wikipedia.org/wiki/Combat_sport">🥋 Fighting Sports</a>, <a href="https://en.wikipedia.org/wiki/Astronomy">🌃 The Astronomy</a>, <a href="https://en.wikipedia.org/wiki/Astrophotography">🔭 The Astrophotography</a>.
+</pre>  
+</details>
+<!-- FIN : About Me EN -->
+
 <!-- DEB : About Me FR -->
 <details>
   <summary>🇫🇷 <b>Biographie Française : </b></summary><br>
@@ -96,24 +114,6 @@ Je voulais à travers ce pseudo dire que la <a href="https://fr.wikipedia.org/wi
 </pre>  
 </details>
 <!-- FIN : About Me FR -->
-
-<!-- DEB : About Me EN -->
-<details>
-  <summary>🇬🇧 <b>English Biography : </b></summary><br>
-<pre>
-Hey! Let me introduce myself : Jason, 22 years old, <a href="">Breton</a> 👋.
-<b>I've chosen "3xpl0it sh4d0w"</b> not because I'm a <a href="https://en.wikipedia.org/wiki/Script_kiddie">Kiddie</a> 👨‍💻. 
-You should know that I chose to do <a href="https://en.wikipedia.org/wiki/Computer_science">Computer Science</a> to harm anyone 😐.
-I chose to work in IT to protect companies against <a href="https://en.wikipedia.org/wiki/Cyberattack">Cyber Attacks</a> 💀.
-I wanted to say through this pseudo that <a href="">Vulnerability</a> is above all human, in any field 😰.
-</pre>
-  
-<pre>
-<b>You should know that I am passionate in various fields 😃 :</b>
-<a href="https://en.wikipedia.org/wiki/Music">🎵 The Music</a>, <a href="https://en.wikipedia.org/wiki/Motorsport">🏎️ Mechanical Sports</a>, <a href="https://en.wikipedia.org/wiki/Combat_sport">🥋 Fighting Sports</a>, <a href="https://en.wikipedia.org/wiki/Astronomy">🌃 The Astronomy</a>, <a href="https://en.wikipedia.org/wiki/Astrophotography">🔭 The Astrophotography</a>.
-</pre>  
-</details>
-<!-- FIN : About Me EN -->
 
 <!--<video src="https://user-images.githubusercontent.com/85597175/149284809-7041d9b7-7c66-4c2e-9991-44442c22a7f6.mp4">-->
 
