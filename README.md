@@ -1,5 +1,11 @@
 <hr>
 
+<p align="center">
+    <a href="">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=364&lines=3xpl0it+Sh4d0w">
+    </a>    
+</p>
+
 <!-- DEB : Stats & Other -->
 <p align="center">
     <a href="https://discord.gg/2Yf79QXc">
