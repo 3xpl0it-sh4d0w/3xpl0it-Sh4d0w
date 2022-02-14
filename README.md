@@ -84,7 +84,7 @@ I wanted to say through this pseudo that <a href="">Vulnerability</a> is above a
 Hey ! Je me présente : Jason, 22 Ans, <a href="">Breton</a> 👋.
 <b>J'ai choisi "3xpl0it sh4d0w"</b> non pas parce-que je suis un <a href="https://fr.wikipedia.org/wiki/Script_kiddie">Kiddie</a> 👨‍💻. 
 Il faut savoir que j'ai choisi de faire de l'<a href="https://fr.wikipedia.org/wiki/Informatique">Informatique</a> pour nuire à quiconque 😐.
-J'ai choisi de faire de l'informatique pour protèger des entreprises contre les <a href="https://fr.wikipedia.org/wiki/Cyberattaque#D%C3%A9finitions">Cyber-Attaques 💀</a>.
+J'ai choisi de faire de l'informatique pour protèger des entreprises contre les <a href="https://fr.wikipedia.org/wiki/Cyberattaque#D%C3%A9finitions">Cyber-Attaques</a> 💀.
 Je voulais à travers ce pseudo dire que la <a href="https://fr.wikipedia.org/wiki/Vuln%C3%A9rabilit%C3%A9">Vulnérabilité</a> est avant tout humaine, dans n'importe quel domaine 😰.
 </pre>
 
