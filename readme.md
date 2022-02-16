@@ -64,19 +64,6 @@
 </p>-->
 <!-- FIN : Stats & Other -->
 
-<p align="center">
-  <table>
-    <tr>      
-      <td align="center" style="width: 100%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xpl0it-sh4d0w&orgs=Shadow-Hoods&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=github_dark&locale=en">
-      </td>
-      <td align="center" style="width: 100%;">
-        <img src="https://github-readme-stats.vercel.app/api/?username=3xpl0it-sh4d0w&orgs=Shadow-Hoods&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=github_dark&locale=en">
-      </td>
-    </tr>
-  </table>
-</p>
-
 <!-- DEB : About Me EN -->
 <blockquote>
 <details>
@@ -116,6 +103,19 @@ Je voulais à travers ce pseudo dire que la <a href="https://fr.wikipedia.org/wi
 </details>
 </blockquote>
 <!-- FIN : About Me FR -->
+
+<p align="center">
+  <table>
+    <tr>      
+      <td align="center" style="width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xpl0it-sh4d0w&orgs=Shadow-Hoods&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=github_dark&locale=en">
+      </td>
+      <td align="center" style="width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api/?username=3xpl0it-sh4d0w&orgs=Shadow-Hoods&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=github_dark&locale=en">
+      </td>
+    </tr>
+  </table>
+</p>
 
 <!--<video src="https://user-images.githubusercontent.com/85597175/149284809-7041d9b7-7c66-4c2e-9991-44442c22a7f6.mp4">-->
 
