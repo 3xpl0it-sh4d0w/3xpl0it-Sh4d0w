@@ -68,28 +68,28 @@ Je voulais à travers ce pseudo dire que la <a href="https://fr.wikipedia.org/wi
   </a>
 -->
   <a href="https://gitlab.com/3xpl0it.sh4d0w">
-    <img src="https://img.shields.io/badge/-GITLAB-blue?logo=gitlab&labelColor=3b3b3b&color=white">
+    <img src="https://img.shields.io/badge/-GITLAB-blue?logo=gitlab&labelColor=2a2a2a&color=white">
   </a>
   <a href="https://instagram.com/3xpl0it.sh4d0w">
-    <img src="https://img.shields.io/badge/-INSTAGRAM-blue?logo=instagram&logoColor=ff00ca&labelColor=3b3b3b&color=white">
+    <img src="https://img.shields.io/badge/-INSTAGRAM-blue?logo=instagram&logoColor=ff00ca&labelColor=2a2a2a&color=white">
   </a>
   <a href="https://tiktok.com/@3xpl0it.sh4d0w">
-    <img src="https://img.shields.io/badge/-TIKTOK-blue?logo=tiktok&labelColor=3b3b3b&color=white">
+    <img src="https://img.shields.io/badge/-TIKTOK-blue?logo=tiktok&labelColor=2a2a2a&color=white">
   </a>
   <a href="https://soundcloud.com/3xpl0it-sh4d0w">
-    <img src="https://img.shields.io/badge/-SOUNDCLOUD-blue?logo=soundcloud&labelColor=3b3b3b&color=white">
+    <img src="https://img.shields.io/badge/-SOUNDCLOUD-blue?logo=soundcloud&labelColor=2a2a2a&color=white">
   </a>
   <a href="https://www.youtube.com/channel/UCXAlT87pnaJjawwyJ-ENsPA">
-    <img src="https://img.shields.io/badge/-YOUTUBE-blue?logo=youtube&labelColor=3b3b3b&color=white">
+    <img src="https://img.shields.io/badge/-YOUTUBE-blue?logo=youtube&labelColor=2a2a2a&color=white">
   </a>
   <a href="https://telegram.me/exploit_shadow">
-    <img src="https://img.shields.io/badge/-TELEGRAM-blue?logo=telegram&labelColor=3b3b3b&color=white">
+    <img src="https://img.shields.io/badge/-TELEGRAM-blue?logo=telegram&labelColor=2a2a2a&color=white">
   </a>
   <a href="https://discord.com/users/744961307932885052">
-    <img src="https://img.shields.io/badge/-DISCORD-blue?logo=discord&labelColor=3b3b3b&color=white">
+    <img src="https://img.shields.io/badge/-DISCORD-blue?logo=discord&labelColor=2a2a2a&color=white">
   </a>
   <a href="https://mamot.fr/@3xpl0it_sh4d0w">
-    <img src="https://img.shields.io/badge/-MASTODON-blue?logo=mastodon&labelColor=3b3b3b&color=white">
+    <img src="https://img.shields.io/badge/-MASTODON-blue?logo=mastodon&labelColor=2a2a2a&color=white">
   </a>
 </p>
 <!-- FIN : Social Links -->
@@ -97,16 +97,16 @@ Je voulais à travers ce pseudo dire que la <a href="https://fr.wikipedia.org/wi
 <!-- DEB : Stats & Other -->
 <p align="center">
     <a href="https://discord.gg/2Yf79QXc">
-        <img alt="Discord Server" src="https://img.shields.io/discord/751580453634310284?label=Discord+SERVER&style=for-the-badge&color=blue">
+        <img alt="Discord Server" src="https://img.shields.io/discord/751580453634310284?label=Discord+SERVER&style=for-the-badge&color=blue&labelColor=2a2a2a">
     </a>    
     <a href="https://github.com/3xpl0it-Sh4d0w?tab=followers">
-        <img alt="Followers" src="https://img.shields.io/badge/dynamic/json?label=GITHUB+FOLLOWERS&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue">
+        <img alt="Followers" src="https://img.shields.io/badge/dynamic/json?label=GITHUB+FOLLOWERS&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue&labelColor=2a2a2a">
     </a>    
     <a href="https://github.com/3xpl0it-Sh4d0w?tab=following">
-        <img alt="Following" src="https://img.shields.io/badge/dynamic/json?label=GITHUB+FOLLOWING&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue">
+        <img alt="Following" src="https://img.shields.io/badge/dynamic/json?label=GITHUB+FOLLOWING&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue&labelColor=2a2a2a">
     </a>
     <a href="https://github.com/3xpl0it-Sh4d0w/3xpl0it-Sh4d0w/commits/main">
-        <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/3xpl0it-sh4d0w/3xpl0it-sh4d0w?style=for-the-badge&color=blue">
+        <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/3xpl0it-sh4d0w/3xpl0it-sh4d0w?style=for-the-badge&color=blue&labelColor=2a2a2a">
     </a>
 </p>
 <!--<p align="center">
