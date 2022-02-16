@@ -12,7 +12,7 @@
 <!-- DEB : About Me EN -->
 <details>
     <summary>
-        <img src="flag-EN-round-250.png" height="16px" width="16px"> 
+        <img src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-round-250.png" height="16px" width="16px"> 
         <b>ABOUT ME : </b>
     </summary>
     
@@ -37,7 +37,7 @@ I wanted to say through this pseudo that <a href="">Vulnerability</a> is above a
 <!-- DEB : About Me FR -->
 <details>
     <summary>
-        <img src="flag-FR-round-250.png" height="16px" width="16px"> 
+        <img src="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" height="16px" width="16px"> 
         <b>A PROPOS DE MOI : </b>
     </summary>
     
