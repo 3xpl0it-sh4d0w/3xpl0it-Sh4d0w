@@ -6,6 +6,8 @@
     </a>    
 </p>
 
+<hr>
+
 <!-- DEB : About Me EN -->
 <details>
     <summary>
