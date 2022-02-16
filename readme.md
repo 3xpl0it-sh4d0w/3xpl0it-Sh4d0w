@@ -116,6 +116,8 @@ Je voulais à travers ce pseudo dire que la <a href="https://fr.wikipedia.org/wi
 </p>-->
 <!-- FIN : Stats & Other -->
 
+<hr>  
+  
 <p align="center">
   <table>
     <tr>      
