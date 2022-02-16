@@ -1,3 +1,4 @@
+<blockquote>
 <hr>
 
 <p align="center">
@@ -131,3 +132,4 @@ Je voulais à travers ce pseudo dire que la <a href="https://fr.wikipedia.org/wi
 <!--<video src="https://user-images.githubusercontent.com/85597175/149284809-7041d9b7-7c66-4c2e-9991-44442c22a7f6.mp4">-->
 
 <hr>
+</blockquote>
