@@ -96,7 +96,7 @@ Je voulais à travers ce pseudo dire que la <a href="https://fr.wikipedia.org/wi
 
 <!-- DEB : Stats & Other -->
 <p align="center">
-    <a href="https://discord.gg/SkARhtEzd6">
+    <a href="https://discord.gg/26MuVhYxjw">
         <img alt="Discord Server" src="https://img.shields.io/discord/751580453634310284?label=Discord+SERVER&style=for-the-badge&color=blue&labelColor=2a2a2a">
     </a>    
     <a href="https://github.com/3xpl0it-Sh4d0w?tab=followers">
