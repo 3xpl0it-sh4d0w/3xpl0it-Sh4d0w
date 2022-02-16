@@ -1,3 +1,5 @@
+<hr>
+
 <p align="center">
     <a href="https://readme-typing-svg.herokuapp.com/">
         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5000&center=true&vCenter=true&lines=%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F+3XPL0IT+SH4D0W+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%94%8E+5PY1NG+%E2%80%A2+COD1NG+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%9B%A1%EF%B8%8F+S3CUR1TY+%E2%80%A2+F0R3NS1C+%F0%9F%94%93">
@@ -43,17 +45,17 @@
 <!-- DEB : Stats & Other -->
 <p align="center">
     <a href="https://discord.gg/2Yf79QXc">
-    <img alt="Discord Server" src="https://img.shields.io/discord/751580453634310284?label=Discord+SERVER&style=for-the-badge&color=blue">
-  </a>
-  <a href="https://github.com/3xpl0it-Sh4d0w?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/badge/dynamic/json?label=GITHUB+FOLLOWERS&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue">
-  </a>
-  <a href="https://github.com/3xpl0it-Sh4d0w?tab=following">
-    <img alt="Following" src="https://img.shields.io/badge/dynamic/json?label=GITHUB+FOLLOWING&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue">
-  </a>
-  <a href="https://github.com/3xpl0it-Sh4d0w/3xpl0it-Sh4d0w/commits/main">
-    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/3xpl0it-sh4d0w/3xpl0it-sh4d0w?style=for-the-badge&color=blue">
-  </a>
+        <img alt="Discord Server" src="https://img.shields.io/discord/751580453634310284?label=Discord+SERVER&style=for-the-badge&color=blue">
+    </a>    
+    <a href="https://github.com/3xpl0it-Sh4d0w?tab=followers">
+        <img alt="Followers" src="https://img.shields.io/badge/dynamic/json?label=GITHUB+FOLLOWERS&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue">
+    </a>    
+    <a href="https://github.com/3xpl0it-Sh4d0w?tab=following">
+        <img alt="Following" src="https://img.shields.io/badge/dynamic/json?label=GITHUB+FOLLOWING&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue">
+    </a>
+    <a href="https://github.com/3xpl0it-Sh4d0w/3xpl0it-Sh4d0w/commits/main">
+        <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/3xpl0it-sh4d0w/3xpl0it-sh4d0w?style=for-the-badge&color=blue">
+    </a>
 </p>
 <!--<p align="center">
   <a href="https://github.com/2016rshah/githubchart-api">
@@ -66,10 +68,10 @@
   <table>
     <tr>      
       <td align="center" style="width: 100%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xpl0it-sh4d0w&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=github_dark&locale=en" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xpl0it-sh4d0w&orgs=Shadow-Hoods&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=github_dark&locale=en">
       </td>
       <td align="center" style="width: 100%;">
-        <img src="https://github-readme-stats.vercel.app/api/?username=3xpl0it-sh4d0w&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=github_dark&locale=en" />
+        <img src="https://github-readme-stats.vercel.app/api/?username=3xpl0it-sh4d0w&orgs=Shadow-Hoods&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=github_dark&locale=en">
       </td>
     </tr>
   </table>
