@@ -105,9 +105,11 @@ J'ai choisi de faire de l'informatique pour protéger des entreprises contre les
     <a href="https://github.com/3xpl0it-Sh4d0w?tab=following">
         <img alt="Following" src="https://img.shields.io/badge/dynamic/json?label=GITHUB+FOLLOWING&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue&labelColor=2a2a2a">
     </a>
+    <!--
     <a href="https://github.com/3xpl0it-Sh4d0w/3xpl0it-Sh4d0w/commits/main">
         <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/3xpl0it-sh4d0w/3xpl0it-sh4d0w?style=for-the-badge&color=blue&labelColor=2a2a2a">
     </a>
+    -->
 </p>
 <!--<p align="center">
   <a href="https://github.com/2016rshah/githubchart-api">
