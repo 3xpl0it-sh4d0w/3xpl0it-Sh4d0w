@@ -24,11 +24,6 @@
         <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/3xpl0it-sh4d0w/3xpl0it-sh4d0w?style=for-the-badge&color=blue&labelColor=2a2a2a">
     </a>
 </p>
-<!--<p align="center">
-  <a href="https://github.com/2016rshah/githubchart-api">
-    <img src="http://ghchart.rshah.org/008EFF/3xpl0it-sh4d0w"/>
-  </a>
-</p>-->
 <!-- FIN : Stats & Other -->
     
 <!-- DEB : Social Links -->
@@ -130,8 +125,6 @@
     </tr>
   </table>
 </p>
-
-<!--<video src="https://user-images.githubusercontent.com/85597175/149284809-7041d9b7-7c66-4c2e-9991-44442c22a7f6.mp4">-->
 
 <hr>
 </blockquote>
