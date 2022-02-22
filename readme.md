@@ -39,28 +39,28 @@
   </a>
 -->
   <a href="https://gitlab.com/3xpl0it.sh4d0w">
-    <img src="https://img.shields.io/badge/-GITLAB-blue?logo=gitlab&labelColor=2a2a2a&color=white">
+    <img src="https://img.shields.io/badge/-GITLAB-blue?logo=gitlab&labelColor=2a2a2a&color=grey">
   </a>
   <a href="https://instagram.com/3xpl0it.sh4d0w">
-    <img src="https://img.shields.io/badge/-INSTAGRAM-blue?logo=instagram&logoColor=ff00ca&labelColor=2a2a2a&color=white">
+    <img src="https://img.shields.io/badge/-INSTAGRAM-blue?logo=instagram&logoColor=ff00ca&labelColor=2a2a2a&color=grey">
   </a>
   <a href="https://tiktok.com/@3xpl0it.sh4d0w">
-    <img src="https://img.shields.io/badge/-TIKTOK-blue?logo=tiktok&labelColor=2a2a2a&color=white">
+    <img src="https://img.shields.io/badge/-TIKTOK-blue?logo=tiktok&labelColor=2a2a2a&color=grey">
   </a>
   <a href="https://soundcloud.com/3xpl0it-sh4d0w">
-    <img src="https://img.shields.io/badge/-SOUNDCLOUD-blue?logo=soundcloud&labelColor=2a2a2a&color=white">
+    <img src="https://img.shields.io/badge/-SOUNDCLOUD-blue?logo=soundcloud&labelColor=2a2a2a&color=grey">
   </a>
   <a href="https://www.youtube.com/channel/UCXAlT87pnaJjawwyJ-ENsPA">
-    <img src="https://img.shields.io/badge/-YOUTUBE-blue?logo=youtube&labelColor=2a2a2a&color=white">
+    <img src="https://img.shields.io/badge/-YOUTUBE-blue?logo=youtube&labelColor=2a2a2a&color=grey">
   </a>
   <a href="https://telegram.me/exploit_shadow">
-    <img src="https://img.shields.io/badge/-TELEGRAM-blue?logo=telegram&labelColor=2a2a2a&color=white">
+    <img src="https://img.shields.io/badge/-TELEGRAM-blue?logo=telegram&labelColor=2a2a2a&color=grey">
   </a>
   <a href="https://discord.com/users/744961307932885052">
-    <img src="https://img.shields.io/badge/-DISCORD-blue?logo=discord&labelColor=2a2a2a&color=white">
+    <img src="https://img.shields.io/badge/-DISCORD-blue?logo=discord&labelColor=2a2a2a&color=grey">
   </a>
   <a href="https://mamot.fr/@3xpl0it_sh4d0w">
-    <img src="https://img.shields.io/badge/-MASTODON-blue?logo=mastodon&labelColor=2a2a2a&color=white">
+    <img src="https://img.shields.io/badge/-MASTODON-blue?logo=mastodon&labelColor=2a2a2a&color=grey">
   </a>
 </p>
 <!-- FIN : Social Links -->
