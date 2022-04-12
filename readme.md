@@ -69,7 +69,6 @@
         <b>ABOUT ME : </b>
     </summary>
     
-<blockquote>
 <pre>
 👋 Hey! Let me introduce myself : Jason, 22 years old, <a href="https://en.wikipedia.org/wiki/Brittany">Breton</a>.
 👨‍💻 <b>I've chosen "3xpl0it sh4d0w"</b> not because I'm a <a href="https://en.wikipedia.org/wiki/Script_kiddie">Kiddie</a>.
@@ -82,19 +81,17 @@
 <b>😃 You should know that I am passionate in various fields :</b>
 <a href="https://en.wikipedia.org/wiki/Music">🎵 The Music</a>, <a href="https://en.wikipedia.org/wiki/Motorsport">🏎️ Mechanical Sports</a>, <a href="https://en.wikipedia.org/wiki/Combat_sport">🥋 Fighting Sports</a>, <a href="https://en.wikipedia.org/wiki/Astronomy">🌃 The Astronomy</a>, <a href="https://en.wikipedia.org/wiki/Astrophotography">🔭 The Astrophotography</a>.
 </pre>
-</blockquote>
 
 </details>
 <!-- FIN : About Me EN -->
 
 <!-- DEB : About Me FR -->
-<details>
+<details open>
     <summary>
         <img src="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" height="16px" width="16px"> 
         <b>A PROPOS DE MOI : </b>
     </summary>
     
-<blockquote>
 <pre>
 👋 Hey ! Je me présente : Jason, 22 Ans, <a href="https://fr.wikipedia.org/wiki/Bretagne">Breton</a>.
 👨‍💻 <b>J'ai choisi "3xpl0it sh4d0w"</b> non pas parce-que je suis un <a href="https://fr.wikipedia.org/wiki/Script_kiddie">Kiddie</a>.
@@ -107,7 +104,6 @@
 <b>😃 Il faut savoir que je suis passionné dans divers domaines :</b>
 <a href="https://fr.wikipedia.org/wiki/M%C3%A9lomane">🎵 La Musique</a>, <a href="https://fr.wikipedia.org/wiki/Sport_m%C3%A9canique">🏎️ Les Sports Mécaniques</a>, <a href="https://fr.wikipedia.org/wiki/Sport_de_combat">🥋 Les Sports de Combats</a>, <a href="https://fr.wikipedia.org/wiki/Astronomie">🌃 L'Astronomie</a>, <a href="https://fr.wikipedia.org/wiki/Astrophotographie">🔭 L'Astrophotographie</a>.
 </pre>
-</blockquote>
 </details>
 <!-- FIN : About Me FR -->
     
