@@ -91,7 +91,7 @@
 <!-- FIN : Social Links -->  
     
 <!-- DEB : Stats & Other -->
-<p align="center">
+<p align="left">
     <a href="https://discord.gg/26MuVhYxjw">
         <img alt="Discord Server" src="https://img.shields.io/discord/751580453634310284?label=Discord&style=for-the-badge&color=blue&labelColor=2a2a2a">
     </a>    
