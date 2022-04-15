@@ -8,15 +8,15 @@
 </p>
     
 <!-- DEB : Stats & Other -->
-<p align="center">
-    <a href="https://discord.gg/26MuVhYxjw">
-        <img alt="Discord Server" src="https://img.shields.io/discord/751580453634310284?label=dscrd+server&style=for-the-badge&color=blue&labelColor=2a2a2a">
-    </a>    
+<p align="center">    
     <a href="https://github.com/3xpl0it-Sh4d0w?tab=followers">
-        <img alt="Followers" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWERS&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue&labelColor=2a2a2a">
+        <img alt="Github Followers" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWERS&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue&labelColor=2a2a2a">
     </a>    
     <a href="https://github.com/3xpl0it-Sh4d0w?tab=following">
-        <img alt="Following" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWING&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue&labelColor=2a2a2a">
+        <img alt="Github Following" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWING&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue&labelColor=2a2a2a">
+    </a>
+    <a href="https://discord.gg/26MuVhYxjw">
+        <img alt="Discord Server" src="https://img.shields.io/discord/751580453634310284?label=dscrd+srv&style=for-the-badge&color=blue&labelColor=2a2a2a">
     </a>
     <a href="https://github.com/3xpl0it-Sh4d0w/3xpl0it-Sh4d0w/commits/main">
         <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/3xpl0it-sh4d0w/3xpl0it-sh4d0w?style=for-the-badge&color=blue&labelColor=2a2a2a">
