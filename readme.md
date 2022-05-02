@@ -109,13 +109,13 @@
   
 <p align="center">
   <table>
-    <tr>      
+    <tr>
       <td align="center" style="width: 100%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xpl0it-sh4d0w&orgs=Shadow-Hoods&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=github_dark&locale=en">
+          <img src="https://github-readme-stats.vercel.app/api/?username=3xpl0it-sh4d0w&orgs=Shadow-Hoods&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=github_dark&locale=en">
       </td>
       <td align="center" style="width: 100%;">
-        <img src="https://github-readme-stats.vercel.app/api/?username=3xpl0it-sh4d0w&orgs=Shadow-Hoods&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=github_dark&locale=en">
-      </td>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xpl0it-sh4d0w&orgs=Shadow-Hoods&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=github_dark&locale=en">
+     </td>
     </tr>
   </table>
 </p>
