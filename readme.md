@@ -63,7 +63,7 @@
 <!-- DEB : About Me EN -->
 <details>
     <summary>
-        <img src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-round-250.png" height="16px" width="16px"> 
+        <a href="#"><img src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-round-250.png" height="16px" width="16px"></a> 
         <b>ABOUT ME : </b>
     </summary>
     
@@ -86,7 +86,7 @@
 <!-- DEB : About Me FR -->
 <details>
     <summary>
-        <img src="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" height="16px" width="16px"> 
+        <a href="#"><img src="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" height="16px" width="16px"></a> 
         <b>A PROPOS DE MOI : </b>
     </summary>
     
