@@ -104,6 +104,18 @@
 </pre>
 </details>
 <!-- FIN : About Me FR --> 
+
+<!-- DEB : About Me FR -->
+<details>
+    <summary>
+        <b>🖥️ SOFTWARE & LANGUAGE I USE : </b>
+    </summary>
+    
+<pre>
+
+</pre>
+</details>
+<!-- FIN : About Me FR -->     
     
 <hr>  
   
