@@ -1,4 +1,64 @@
 <blockquote>
+
+<hr>    
+ 
+<!-- DEB : About Me EN -->
+<details>
+    <summary>
+        <a href="#"><img src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-round-250.png" height="16px" width="16px"></a> 
+        <b>ABOUT ME : </b>
+    </summary>
+    
+<pre>
+👋 Hey! Let me introduce myself : Jason, 22 years old, <a href="https://en.wikipedia.org/wiki/Brittany">Breton</a>.
+👨‍💻 <b>I've chosen "3xpl0it sh4d0w"</b> not because I'm a <a href="https://en.wikipedia.org/wiki/Script_kiddie">Kiddie</a>.
+😰 I wanted to say through this pseudo that <a href="https://en.wikipedia.org/wiki/Vulnerability">Vulnerability</a> is above all human.
+😐 You should know that I chose to do <a href="https://en.wikipedia.org/wiki/Computer_science">Computer Science</a> to harm anyone.
+💀 I chose to work in IT to protect companies against <a href="https://en.wikipedia.org/wiki/Cyberattack">Cyber Attacks</a>.
+</pre>
+  
+<pre>
+<b>😃 You should know that I am passionate in various fields :</b>
+<a href="https://en.wikipedia.org/wiki/Music">🎵 The Music</a>, <a href="https://en.wikipedia.org/wiki/Motorsport">🏎️ Mechanical Sports</a>, <a href="https://en.wikipedia.org/wiki/Combat_sport">🥋 Fighting Sports</a>, <a href="https://en.wikipedia.org/wiki/Astronomy">🌃 The Astronomy</a>, <a href="https://en.wikipedia.org/wiki/Astrophotography">🔭 The Astrophotography</a>.
+</pre>
+
+</details>
+<!-- FIN : About Me EN -->
+
+<!-- DEB : About Me FR -->
+<details>
+    <summary>
+        <a href="#"><img src="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" height="16px" width="16px"></a> 
+        <b>A PROPOS DE MOI : </b>
+    </summary>
+    
+<pre>
+👋 Hey ! Je me présente : Jason, 22 Ans, <a href="https://fr.wikipedia.org/wiki/Bretagne">Breton</a>.
+👨‍💻 <b>J'ai choisi "3xpl0it sh4d0w"</b> non pas parce-que je suis un <a href="https://fr.wikipedia.org/wiki/Script_kiddie">Kiddie</a>.
+😰 Je voulais à travers ce pseudo dire que la <a href="https://fr.wikipedia.org/wiki/Vuln%C3%A9rabilit%C3%A9">Vulnérabilité</a> est avant tout humaine.
+😐 Il faut savoir que j'ai choisi de faire de l'<a href="https://fr.wikipedia.org/wiki/Informatique">Informatique</a> pour nuire à quiconque.
+💀 J'ai choisi de faire de l'informatique pour protéger des entreprises contre les <a href="https://fr.wikipedia.org/wiki/Cyberattaque#D%C3%A9finitions">Cyber-Attaques</a>.
+</pre>
+
+<pre>
+<b>😃 Il faut savoir que je suis passionné dans divers domaines :</b>
+<a href="https://fr.wikipedia.org/wiki/M%C3%A9lomane">🎵 La Musique</a>, <a href="https://fr.wikipedia.org/wiki/Sport_m%C3%A9canique">🏎️ Les Sports Mécaniques</a>, <a href="https://fr.wikipedia.org/wiki/Sport_de_combat">🥋 Les Sports de Combats</a>, <a href="https://fr.wikipedia.org/wiki/Astronomie">🌃 L'Astronomie</a>, <a href="https://fr.wikipedia.org/wiki/Astrophotographie">🔭 L'Astrophotographie</a>.
+</pre>
+</details>
+<!-- FIN : About Me FR --> 
+
+<!-- DEB : About Me FR -->
+<details>
+    <summary>
+        <b>🖥️ SOFTWARE & LANGUAGE I USE : </b>
+    </summary>
+    
+<pre>
+
+</pre>
+</details>
+<!-- FIN : About Me FR -->     
+        
 <hr>
     
 <p align="center">
@@ -59,65 +119,6 @@
 <!-- FIN : Social Links --> 
 
 <hr>
-
-<!-- DEB : About Me EN -->
-<details>
-    <summary>
-        <a href="#"><img src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-round-250.png" height="16px" width="16px"></a> 
-        <b>ABOUT ME : </b>
-    </summary>
-    
-<pre>
-👋 Hey! Let me introduce myself : Jason, 22 years old, <a href="https://en.wikipedia.org/wiki/Brittany">Breton</a>.
-👨‍💻 <b>I've chosen "3xpl0it sh4d0w"</b> not because I'm a <a href="https://en.wikipedia.org/wiki/Script_kiddie">Kiddie</a>.
-😰 I wanted to say through this pseudo that <a href="https://en.wikipedia.org/wiki/Vulnerability">Vulnerability</a> is above all human.
-😐 You should know that I chose to do <a href="https://en.wikipedia.org/wiki/Computer_science">Computer Science</a> to harm anyone.
-💀 I chose to work in IT to protect companies against <a href="https://en.wikipedia.org/wiki/Cyberattack">Cyber Attacks</a>.
-</pre>
-  
-<pre>
-<b>😃 You should know that I am passionate in various fields :</b>
-<a href="https://en.wikipedia.org/wiki/Music">🎵 The Music</a>, <a href="https://en.wikipedia.org/wiki/Motorsport">🏎️ Mechanical Sports</a>, <a href="https://en.wikipedia.org/wiki/Combat_sport">🥋 Fighting Sports</a>, <a href="https://en.wikipedia.org/wiki/Astronomy">🌃 The Astronomy</a>, <a href="https://en.wikipedia.org/wiki/Astrophotography">🔭 The Astrophotography</a>.
-</pre>
-
-</details>
-<!-- FIN : About Me EN -->
-
-<!-- DEB : About Me FR -->
-<details>
-    <summary>
-        <a href="#"><img src="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" height="16px" width="16px"></a> 
-        <b>A PROPOS DE MOI : </b>
-    </summary>
-    
-<pre>
-👋 Hey ! Je me présente : Jason, 22 Ans, <a href="https://fr.wikipedia.org/wiki/Bretagne">Breton</a>.
-👨‍💻 <b>J'ai choisi "3xpl0it sh4d0w"</b> non pas parce-que je suis un <a href="https://fr.wikipedia.org/wiki/Script_kiddie">Kiddie</a>.
-😰 Je voulais à travers ce pseudo dire que la <a href="https://fr.wikipedia.org/wiki/Vuln%C3%A9rabilit%C3%A9">Vulnérabilité</a> est avant tout humaine.
-😐 Il faut savoir que j'ai choisi de faire de l'<a href="https://fr.wikipedia.org/wiki/Informatique">Informatique</a> pour nuire à quiconque.
-💀 J'ai choisi de faire de l'informatique pour protéger des entreprises contre les <a href="https://fr.wikipedia.org/wiki/Cyberattaque#D%C3%A9finitions">Cyber-Attaques</a>.
-</pre>
-
-<pre>
-<b>😃 Il faut savoir que je suis passionné dans divers domaines :</b>
-<a href="https://fr.wikipedia.org/wiki/M%C3%A9lomane">🎵 La Musique</a>, <a href="https://fr.wikipedia.org/wiki/Sport_m%C3%A9canique">🏎️ Les Sports Mécaniques</a>, <a href="https://fr.wikipedia.org/wiki/Sport_de_combat">🥋 Les Sports de Combats</a>, <a href="https://fr.wikipedia.org/wiki/Astronomie">🌃 L'Astronomie</a>, <a href="https://fr.wikipedia.org/wiki/Astrophotographie">🔭 L'Astrophotographie</a>.
-</pre>
-</details>
-<!-- FIN : About Me FR --> 
-
-<!-- DEB : About Me FR -->
-<details>
-    <summary>
-        <b>🖥️ SOFTWARE & LANGUAGE I USE : </b>
-    </summary>
-    
-<pre>
-
-</pre>
-</details>
-<!-- FIN : About Me FR -->     
-    
-<hr>  
   
 <p align="center">
   <table>
