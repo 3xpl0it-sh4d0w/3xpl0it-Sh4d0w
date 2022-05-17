@@ -10,7 +10,7 @@
  
 <hr>    
  
-<!-- DEB : About Me EN -->
+<!-- DEB : A Propos de moi en Anglais -->
 <details>
     <summary>
         <a href="#"><img src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-round-250.png" height="16px" width="16px"></a> 
@@ -31,9 +31,9 @@
 </pre>
 
 </details>
-<!-- FIN : About Me EN -->
+<!-- FIN : A Propos de moi en Anglais -->
 
-<!-- DEB : About Me FR -->
+<!-- DEB : A Propos de moi en Français -->
 <details>
     <summary>
         <a href="#"><img src="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" height="16px" width="16px"></a> 
@@ -53,9 +53,9 @@
 <a href="https://fr.wikipedia.org/wiki/M%C3%A9lomane">🎵 La Musique</a>, <a href="https://fr.wikipedia.org/wiki/Sport_m%C3%A9canique">🏎️ Les Sports Mécaniques</a>, <a href="https://fr.wikipedia.org/wiki/Sport_de_combat">🥋 Les Sports de Combats</a>, <a href="https://fr.wikipedia.org/wiki/Astronomie">🌃 L'Astronomie</a>, <a href="https://fr.wikipedia.org/wiki/Astrophotographie">🔭 L'Astrophotographie</a>.
 </pre>
 </details>
-<!-- FIN : About Me FR --> 
+<!-- FIN : A Propos de moi en Français --> 
 
-<!-- DEB : About Me FR -->
+<!-- DEB : Logiciels et Langages que j'utilise -->
 <details>
     <summary>
         <b>🖥️ SOFTWARE & LANGUAGE I USE : </b>
@@ -72,11 +72,11 @@
   </a>
  </p>
 </details>
-<!-- FIN : About Me FR -->     
+<!-- FIN : Logiciels et Langages que j'utilise -->     
         
 <hr>
     
-<!-- DEB : Stats & Other -->
+<!-- DEB : Statistiques et Autres ... -->
 <p align="center"> 
     <a href="https://discord.gg/26MuVhYxjw">
         <img alt="Discord Server" src="https://img.shields.io/discord/751580453634310284?label=dscrd+srv&style=for-the-badge&color=blue&labelColor=2a2a2a&logo=discord">
@@ -91,9 +91,9 @@
         <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/3xpl0it-sh4d0w/3xpl0it-sh4d0w?style=for-the-badge&color=blue&labelColor=2a2a2a">
     </a>
 </p>
-<!-- FIN : Stats & Other -->   
+<!-- FIN : Statistiques et Autre ... -->   
     
-<!-- DEB : Social Links -->
+<!-- DEB : Liens Sociaux -->
 <p align="center">
 <!--
   <a href="https://www.root-me.org/3xpl0it-Sh4d0w">
@@ -125,10 +125,11 @@
     <img src="https://img.shields.io/badge/-MASTODON-blue?logo=mastodon&labelColor=2a2a2a&color=2a2a2a">
   </a>
 </p>
-<!-- FIN : Social Links --> 
+<!-- FIN : Liens Sociaux --> 
 
 <hr>
-  
+
+<!-- DEB : Statistiques et Autre --> 
 <p align="center">
   <table>
     <tr>
@@ -141,6 +142,7 @@
     </tr>
   </table>
 </p>
+<!-- FIN : Statistiques et Autre -->
 
 <hr>
 </blockquote>
