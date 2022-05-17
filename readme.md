@@ -60,11 +60,18 @@
     <summary>
         <b>🖥️ SOFTWARE & LANGUAGE I USE : </b>
     </summary>
-    
-<pre>
-
+ <p>
+  <a href="#">
+   <img alt="Bash" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/216px-Gnu-bash-logo.svg.png" height="52px">
+  </a>
+  <a href="#">
+   <img alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="52px" width="52px">
+  </a>
+  <a href="#">
+   <img alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="52px" width="52px">
+  </a>
+ </p>
 </pre>
-</details>
 <!-- FIN : About Me FR -->     
         
 <hr>
