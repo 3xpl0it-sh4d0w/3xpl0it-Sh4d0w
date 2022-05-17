@@ -71,7 +71,7 @@
    <img alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="52px" width="52px">
   </a>
  </p>
-</pre>
+</details>
 <!-- FIN : About Me FR -->     
         
 <hr>
