@@ -8,7 +8,60 @@
     </a>    
 </p>
  
-<hr>    
+<hr>
+ 
+<!-- DEB : Statistiques et Autres ... -->
+<p align="center"> 
+    <a href="https://discord.gg/26MuVhYxjw">
+        <img alt="Discord Server" src="https://img.shields.io/discord/751580453634310284?label=dscrd+srv&style=for-the-badge&color=blue&labelColor=2a2a2a&logo=discord">
+    </a>
+    <a href="https://github.com/3xpl0it-Sh4d0w?tab=followers">
+        <img alt="Github Followers" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWERS&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
+    </a>    
+    <a href="https://github.com/3xpl0it-Sh4d0w?tab=following">
+        <img alt="Github Following" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWING&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
+    </a>
+    <a href="https://github.com/3xpl0it-Sh4d0w/3xpl0it-Sh4d0w/commits/main">
+        <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/3xpl0it-sh4d0w/3xpl0it-sh4d0w?style=for-the-badge&color=blue&labelColor=2a2a2a">
+    </a>
+</p>
+<!-- FIN : Statistiques et Autre ... -->   
+    
+<!-- DEB : Liens Sociaux -->
+<p align="center">
+<!--
+  <a href="https://www.root-me.org/3xpl0it-Sh4d0w">
+    <img src="">
+  </a>
+-->
+  <a href="https://gitlab.com/3xpl0it.sh4d0w">
+    <img src="https://img.shields.io/badge/-GITLAB-blue?logo=gitlab&labelColor=2a2a2a&color=2a2a2a">
+  </a>
+  <a href="https://instagram.com/3xpl0it.sh4d0w">
+    <img src="https://img.shields.io/badge/-INSTAGRAM-blue?logo=instagram&logoColor=ff00ca&labelColor=2a2a2a&color=2a2a2a">
+  </a>
+  <a href="https://tiktok.com/@3xpl0it.sh4d0w">
+    <img src="https://img.shields.io/badge/-TIKTOK-blue?logo=tiktok&labelColor=2a2a2a&color=2a2a2a">
+  </a>
+  <a href="https://soundcloud.com/3xpl0it-sh4d0w">
+    <img src="https://img.shields.io/badge/-SOUNDCLOUD-blue?logo=soundcloud&labelColor=2a2a2a&color=2a2a2a">
+  </a>
+  <a href="https://www.youtube.com/channel/UCXAlT87pnaJjawwyJ-ENsPA">
+    <img src="https://img.shields.io/badge/-YOUTUBE-blue?logo=youtube&labelColor=2a2a2a&color=2a2a2a">
+  </a>
+  <a href="https://telegram.me/exploit_shadow">
+    <img src="https://img.shields.io/badge/-TELEGRAM-blue?logo=telegram&labelColor=2a2a2a&color=2a2a2a">
+  </a>
+  <a href="https://discord.com/users/744961307932885052">
+    <img src="https://img.shields.io/badge/-DISCORD-blue?logo=discord&labelColor=2a2a2a&color=2a2a2a">
+  </a>
+  <a href="https://mamot.fr/@3xpl0it_sh4d0w">
+    <img src="https://img.shields.io/badge/-MASTODON-blue?logo=mastodon&labelColor=2a2a2a&color=2a2a2a">
+  </a>
+</p>
+<!-- FIN : Liens Sociaux --> 
+ 
+<hr> 
  
 <!-- DEB : A Propos de moi en Anglais -->
 <details>
@@ -76,59 +129,6 @@
  </p>
 </details>
 <!-- FIN : Logiciels et Langages que j'utilise -->     
-        
-<hr>
-    
-<!-- DEB : Statistiques et Autres ... -->
-<p align="center"> 
-    <a href="https://discord.gg/26MuVhYxjw">
-        <img alt="Discord Server" src="https://img.shields.io/discord/751580453634310284?label=dscrd+srv&style=for-the-badge&color=blue&labelColor=2a2a2a&logo=discord">
-    </a>
-    <a href="https://github.com/3xpl0it-Sh4d0w?tab=followers">
-        <img alt="Github Followers" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWERS&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
-    </a>    
-    <a href="https://github.com/3xpl0it-Sh4d0w?tab=following">
-        <img alt="Github Following" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWING&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
-    </a>
-    <a href="https://github.com/3xpl0it-Sh4d0w/3xpl0it-Sh4d0w/commits/main">
-        <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/3xpl0it-sh4d0w/3xpl0it-sh4d0w?style=for-the-badge&color=blue&labelColor=2a2a2a">
-    </a>
-</p>
-<!-- FIN : Statistiques et Autre ... -->   
-    
-<!-- DEB : Liens Sociaux -->
-<p align="center">
-<!--
-  <a href="https://www.root-me.org/3xpl0it-Sh4d0w">
-    <img src="">
-  </a>
--->
-  <a href="https://gitlab.com/3xpl0it.sh4d0w">
-    <img src="https://img.shields.io/badge/-GITLAB-blue?logo=gitlab&labelColor=2a2a2a&color=2a2a2a">
-  </a>
-  <a href="https://instagram.com/3xpl0it.sh4d0w">
-    <img src="https://img.shields.io/badge/-INSTAGRAM-blue?logo=instagram&logoColor=ff00ca&labelColor=2a2a2a&color=2a2a2a">
-  </a>
-  <a href="https://tiktok.com/@3xpl0it.sh4d0w">
-    <img src="https://img.shields.io/badge/-TIKTOK-blue?logo=tiktok&labelColor=2a2a2a&color=2a2a2a">
-  </a>
-  <a href="https://soundcloud.com/3xpl0it-sh4d0w">
-    <img src="https://img.shields.io/badge/-SOUNDCLOUD-blue?logo=soundcloud&labelColor=2a2a2a&color=2a2a2a">
-  </a>
-  <a href="https://www.youtube.com/channel/UCXAlT87pnaJjawwyJ-ENsPA">
-    <img src="https://img.shields.io/badge/-YOUTUBE-blue?logo=youtube&labelColor=2a2a2a&color=2a2a2a">
-  </a>
-  <a href="https://telegram.me/exploit_shadow">
-    <img src="https://img.shields.io/badge/-TELEGRAM-blue?logo=telegram&labelColor=2a2a2a&color=2a2a2a">
-  </a>
-  <a href="https://discord.com/users/744961307932885052">
-    <img src="https://img.shields.io/badge/-DISCORD-blue?logo=discord&labelColor=2a2a2a&color=2a2a2a">
-  </a>
-  <a href="https://mamot.fr/@3xpl0it_sh4d0w">
-    <img src="https://img.shields.io/badge/-MASTODON-blue?logo=mastodon&labelColor=2a2a2a&color=2a2a2a">
-  </a>
-</p>
-<!-- FIN : Liens Sociaux --> 
 
 <hr>
 
