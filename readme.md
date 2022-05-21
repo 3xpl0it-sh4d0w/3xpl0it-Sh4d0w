@@ -8,8 +8,6 @@
     </a>    
 </p>
  
-<hr>
- 
 <!-- DEB : Statistiques et Autres ... -->
 <p align="center"> 
     <a href="https://discord.gg/26MuVhYxjw">
