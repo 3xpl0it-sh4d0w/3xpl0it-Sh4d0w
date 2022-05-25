@@ -31,7 +31,7 @@
   <a href="https://www.root-me.org/3xpl0it-Sh4d0w">
     <img src="">
   </a>
--->
+
   <a href="https://gitlab.com/3xpl0it.sh4d0w">
     <img src="https://img.shields.io/badge/-GITLAB-blue?logo=gitlab&labelColor=2a2a2a&color=2a2a2a">
   </a>
@@ -57,6 +57,7 @@
     <img src="https://img.shields.io/badge/-MASTODON-blue?logo=mastodon&labelColor=2a2a2a&color=2a2a2a">
   </a>
 </p>
+-->
 <!-- FIN : Liens Sociaux --> 
  
 <hr> 
@@ -107,6 +108,7 @@
 <!-- FIN : A Propos de moi en Français --> 
 
 <!-- DEB : Logiciels et Langages que j'utilise -->
+<!--
 <details>
     <summary>
         <b>🖥️ SOFTWARE & LANGUAGE I USE : </b>
@@ -126,6 +128,7 @@
   </a>
  </p>
 </details>
+-->
 <!-- FIN : Logiciels et Langages que j'utilise -->     
 
 <hr>
