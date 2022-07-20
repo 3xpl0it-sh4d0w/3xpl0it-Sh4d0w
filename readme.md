@@ -110,27 +110,25 @@
 <hr> 
 
 <!-- DEB : Logiciels et Langages que j'utilise -->
-<!--
-<details>
+<!--<details>
     <summary>
         <b>🖥️ SOFTWARE & LANGUAGE I USE : </b>
     </summary>
  <p>
   <a href="https://www.gnu.org/software/bash/manual/bash.html#What-is-Bash_003f">
    <img alt="Bash" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/216px-Gnu-bash-logo.svg.png" height="52px">
-  </a>
+  </a> &nbsp; |
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
    <img alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="52px" width="52px">
-  </a>
+  </a> &nbsp; |
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
    <img alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="52px" width="52px">
-  </a>
+  </a> &nbsp; |
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
    <img alt="JS" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" height="52px" width="52px">
   </a>
  </p>
-</details>
--->
+</details>-->
 <!-- FIN : Logiciels et Langages que j'utilise -->     
 
 <!-- DEB : Statistiques et Autre --> 
