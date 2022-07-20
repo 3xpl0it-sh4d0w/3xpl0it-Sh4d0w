@@ -1,13 +1,59 @@
 <blockquote>
 
-<hr> 
- 
+<hr>
+
+<!-- DEB : A Propos de moi en Anglais -->
+<details>
+    <summary>
+        <a href="#"><img src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-round-250.png" height="16px" width="16px"></a> 
+        <b>ABOUT ME : </b>
+    </summary>
+    
+<pre>
+👋 Hey! Let me introduce myself : Jason, 22 years old, <a href="https://en.wikipedia.org/wiki/Brittany">Breton</a>.
+👨‍💻 <b>I've chosen "3xpl0it sh4d0w"</b> not because I'm a <a href="https://en.wikipedia.org/wiki/Script_kiddie">Kiddie</a>.
+😰 I wanted to say through this pseudo that <a href="https://en.wikipedia.org/wiki/Vulnerability">Vulnerability</a> is above all human.
+😐 You should know that I chose to do <a href="https://en.wikipedia.org/wiki/Computer_science">Computer Science</a> to harm anyone.
+💀 I chose to work in IT to protect companies against <a href="https://en.wikipedia.org/wiki/Cyberattack">Cyber Attacks</a>.
+</pre>
+  
+<pre>
+<b>😃 You should know that I am passionate in various fields :</b>
+<a href="https://en.wikipedia.org/wiki/Music">🎵 The Music</a>, <a href="https://en.wikipedia.org/wiki/Motorsport">🏎️ Mechanical Sports</a>, <a href="https://en.wikipedia.org/wiki/Combat_sport">🥋 Fighting Sports</a>, <a href="https://en.wikipedia.org/wiki/Astronomy">🌃 The Astronomy</a>, <a href="https://en.wikipedia.org/wiki/Astrophotography">🔭 The Astrophotography</a>.
+</pre>
+
+</details>
+<!-- FIN : A Propos de moi en Anglais -->
+
+<!-- DEB : A Propos de moi en Français -->
+<details>
+    <summary>
+        <a href="#"><img src="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" height="16px" width="16px"></a> 
+        <b>A PROPOS DE MOI : </b>
+    </summary>
+    
+<pre>
+👋 Hey ! Je me présente : Jason, 22 Ans, <a href="https://fr.wikipedia.org/wiki/Bretagne">Breton</a>.
+👨‍💻 <b>J'ai choisi "3xpl0it sh4d0w"</b> non pas parce-que je suis un <a href="https://fr.wikipedia.org/wiki/Script_kiddie">Kiddie</a>.
+😰 Je voulais à travers ce pseudo dire que la <a href="https://fr.wikipedia.org/wiki/Vuln%C3%A9rabilit%C3%A9">Vulnérabilité</a> est avant tout humaine.
+😐 Il faut savoir que j'ai choisi de faire de l'<a href="https://fr.wikipedia.org/wiki/Informatique">Informatique</a> pour nuire à quiconque.
+💀 J'ai choisi de faire de l'informatique pour protéger des entreprises contre les <a href="https://fr.wikipedia.org/wiki/Cyberattaque#D%C3%A9finitions">Cyber-Attaques</a>.
+</pre>
+
+<pre>
+<b>😃 Il faut savoir que je suis passionné dans divers domaines :</b>
+<a href="https://fr.wikipedia.org/wiki/M%C3%A9lomane">🎵 La Musique</a>, <a href="https://fr.wikipedia.org/wiki/Sport_m%C3%A9canique">🏎️ Les Sports Mécaniques</a>, <a href="https://fr.wikipedia.org/wiki/Sport_de_combat">🥋 Les Sports de Combats</a>, <a href="https://fr.wikipedia.org/wiki/Astronomie">🌃 L'Astronomie</a>, <a href="https://fr.wikipedia.org/wiki/Astrophotographie">🔭 L'Astrophotographie</a>.
+</pre>
+</details>
+<!-- FIN : A Propos de moi en Français --> 
+<hr>
+
 <p align="center">
-    <a href="https://github.com/denvercoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5000&center=true&vCenter=true&lines=%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F+3XPL0IT+SH4D0W+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%94%8E+5PY1NG+%E2%80%A2+COD1NG+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%9B%A1%EF%B8%8F+S3CUR1TY+%E2%80%A2+F0R3NS1C+%F0%9F%94%93">
-    </a>    
+ <a href="https://github.com/denvercoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5000&center=true&vCenter=true&lines=%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F+3XPL0IT+SH4D0W+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%94%8E+5PY1NG+%E2%80%A2+COD1NG+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%9B%A1%EF%B8%8F+S3CUR1TY+%E2%80%A2+F0R3NS1C+%F0%9F%94%93">
+  </a>    
 </p>
- 
+
 <!-- DEB : Statistiques et Autres ... -->
 <p align="center"> 
     <a href="https://discord.gg/26MuVhYxjw">
@@ -61,51 +107,6 @@
 <!-- FIN : Liens Sociaux --> 
  
 <hr> 
- 
-<!-- DEB : A Propos de moi en Anglais -->
-<details>
-    <summary>
-        <a href="#"><img src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-round-250.png" height="16px" width="16px"></a> 
-        <b>ABOUT ME : </b>
-    </summary>
-    
-<pre>
-👋 Hey! Let me introduce myself : Jason, 22 years old, <a href="https://en.wikipedia.org/wiki/Brittany">Breton</a>.
-👨‍💻 <b>I've chosen "3xpl0it sh4d0w"</b> not because I'm a <a href="https://en.wikipedia.org/wiki/Script_kiddie">Kiddie</a>.
-😰 I wanted to say through this pseudo that <a href="https://en.wikipedia.org/wiki/Vulnerability">Vulnerability</a> is above all human.
-😐 You should know that I chose to do <a href="https://en.wikipedia.org/wiki/Computer_science">Computer Science</a> to harm anyone.
-💀 I chose to work in IT to protect companies against <a href="https://en.wikipedia.org/wiki/Cyberattack">Cyber Attacks</a>.
-</pre>
-  
-<pre>
-<b>😃 You should know that I am passionate in various fields :</b>
-<a href="https://en.wikipedia.org/wiki/Music">🎵 The Music</a>, <a href="https://en.wikipedia.org/wiki/Motorsport">🏎️ Mechanical Sports</a>, <a href="https://en.wikipedia.org/wiki/Combat_sport">🥋 Fighting Sports</a>, <a href="https://en.wikipedia.org/wiki/Astronomy">🌃 The Astronomy</a>, <a href="https://en.wikipedia.org/wiki/Astrophotography">🔭 The Astrophotography</a>.
-</pre>
-
-</details>
-<!-- FIN : A Propos de moi en Anglais -->
-
-<!-- DEB : A Propos de moi en Français -->
-<details>
-    <summary>
-        <a href="#"><img src="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" height="16px" width="16px"></a> 
-        <b>A PROPOS DE MOI : </b>
-    </summary>
-    
-<pre>
-👋 Hey ! Je me présente : Jason, 22 Ans, <a href="https://fr.wikipedia.org/wiki/Bretagne">Breton</a>.
-👨‍💻 <b>J'ai choisi "3xpl0it sh4d0w"</b> non pas parce-que je suis un <a href="https://fr.wikipedia.org/wiki/Script_kiddie">Kiddie</a>.
-😰 Je voulais à travers ce pseudo dire que la <a href="https://fr.wikipedia.org/wiki/Vuln%C3%A9rabilit%C3%A9">Vulnérabilité</a> est avant tout humaine.
-😐 Il faut savoir que j'ai choisi de faire de l'<a href="https://fr.wikipedia.org/wiki/Informatique">Informatique</a> pour nuire à quiconque.
-💀 J'ai choisi de faire de l'informatique pour protéger des entreprises contre les <a href="https://fr.wikipedia.org/wiki/Cyberattaque#D%C3%A9finitions">Cyber-Attaques</a>.
-</pre>
-
-<pre>
-<b>😃 Il faut savoir que je suis passionné dans divers domaines :</b>
-<a href="https://fr.wikipedia.org/wiki/M%C3%A9lomane">🎵 La Musique</a>, <a href="https://fr.wikipedia.org/wiki/Sport_m%C3%A9canique">🏎️ Les Sports Mécaniques</a>, <a href="https://fr.wikipedia.org/wiki/Sport_de_combat">🥋 Les Sports de Combats</a>, <a href="https://fr.wikipedia.org/wiki/Astronomie">🌃 L'Astronomie</a>, <a href="https://fr.wikipedia.org/wiki/Astrophotographie">🔭 L'Astrophotographie</a>.
-</pre>
-</details>
-<!-- FIN : A Propos de moi en Français --> 
 
 <!-- DEB : Logiciels et Langages que j'utilise -->
 <!--
@@ -130,8 +131,6 @@
 </details>
 -->
 <!-- FIN : Logiciels et Langages que j'utilise -->     
-
-<hr>
 
 <!-- DEB : Statistiques et Autre --> 
 <p align="center">
