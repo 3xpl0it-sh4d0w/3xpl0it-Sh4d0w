@@ -63,7 +63,6 @@
 <hr>
 
 <!-- DEB : A Propos de moi en Anglais -->
-<!--
 <details>
     <summary>
         <a href="#"><img src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-round-250.png" height="16px" width="16px"></a> 
@@ -84,7 +83,6 @@
 </pre>
 
 </details>
--->
 <!-- FIN : A Propos de moi en Anglais -->
 
 <!-- DEB : A Propos de moi en Français -->
@@ -112,7 +110,8 @@
 <hr> 
 
 <!-- DEB : Logiciels et Langages que j'utilise -->
-<!--<details>
+<!--
+<details>
     <summary>
         <b>🖥️ SOFTWARE & LANGUAGE I USE : </b>
     </summary>
@@ -130,7 +129,8 @@
    <img alt="JS" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" height="52px" width="52px">
   </a>
  </p>
-</details>-->
+</details>
+-->
 <!-- FIN : Logiciels et Langages que j'utilise -->     
 
 <!-- DEB : Statistiques et Autre --> 
