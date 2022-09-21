@@ -86,7 +86,7 @@
 <!-- FIN : A Propos de moi en Anglais -->
 
 <!-- DEB : A Propos de moi en Français -->
-<details open>
+<details>
     <summary>
         <a href="#"><img src="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" height="16px" width="16px"></a> 
         <b>A PROPOS DE MOI : </b>
