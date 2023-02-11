@@ -58,32 +58,9 @@
 <!-- FIN : Liens Sociaux -->   
 
 <hr>
-
-<!-- DEB : A Propos de moi en Anglais -->
-<details>
-    <summary>
-        <a href="#"><img src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-round-250.png" height="16px" width="16px"></a> 
-        <b>ABOUT ME : </b>
-    </summary>
-    
-<pre>
-👋 Hey! Let me introduce myself : Jason, 23 Yo, <a href="https://en.wikipedia.org/wiki/Brittany">Breton</a>.
-👨‍💻 <b>I've chosen "3xpl0it sh4d0w"</b> not because I'm a <a href="https://en.wikipedia.org/wiki/Script_kiddie">Kiddie</a>.
-😰 I wanted to say through this pseudo that <a href="https://en.wikipedia.org/wiki/Vulnerability">Vulnerability</a> is above all human.
-😐 You should know that I chose to do <a href="https://en.wikipedia.org/wiki/Computer_science">Computer Science</a> to harm anyone.
-💀 I chose to work in IT to protect companies against <a href="https://en.wikipedia.org/wiki/Cyberattack">Cyber Attacks</a>.
-</pre>
-  
-<pre>
-<b>😃 You should know that I am passionate in various fields :</b>
-<a href="https://en.wikipedia.org/wiki/Music">🎵 The Music</a>, <a href="https://en.wikipedia.org/wiki/Motorsport">🏎️ Mechanical Sports</a>, <a href="https://en.wikipedia.org/wiki/Combat_sport">🥋 Fighting Sports</a>, <a href="https://en.wikipedia.org/wiki/Astronomy">🌃 The Astronomy</a>, <a href="https://en.wikipedia.org/wiki/Astrophotography">🔭 The Astrophotography</a>.
-</pre>
-
-</details>
-<!-- FIN : A Propos de moi en Anglais -->
-
+ 
 <!-- DEB : A Propos de moi en Français -->
-<details>
+<details open>
     <summary>
         <a href="#"><img src="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" height="16px" width="16px"></a> 
         <b>A PROPOS DE MOI : </b>
