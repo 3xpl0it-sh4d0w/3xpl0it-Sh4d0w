@@ -1,4 +1,4 @@
-<blockquote>
+ <blockquote>
 
 <hr>
 
@@ -74,7 +74,7 @@
 👋 Hey ! Je me présente : Jason, 23 Ans, <a href="https://fr.wikipedia.org/wiki/Bretagne">Breton</a>.
 👨‍💻 <b>J'ai choisi "3xpl0it sh4d0w"</b> non pas parce-que je suis un <a href="https://fr.wikipedia.org/wiki/Script_kiddie">Kiddie</a>.
 😰 Je voulais à travers ce pseudo dire que la <a href="https://fr.wikipedia.org/wiki/Vuln%C3%A9rabilit%C3%A9">Vulnérabilité</a> est avant tout humaine.
-😐 Il faut savoir que j'ai choisi de faire de l'<a href="https://fr.wikipedia.org/wiki/Informatique">Informatique</a> pour nuire à quiconque.
+😐 Il faut savoir que j'ai choisi de faire de l'<a href="https://fr.wikipedia.org/wiki/Informatique">Informatique</a> pour ne pas nuire à quiconque.
 💀 J'ai choisi de faire de l'informatique pour protéger des entreprises contre les <a href="https://fr.wikipedia.org/wiki/Cyberattaque#D%C3%A9finitions">Cyber-Attaques</a>.
 </pre>
 
